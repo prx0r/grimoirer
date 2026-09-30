@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-09-30",
+  "description": "Ochema grimoire knowledge graph — machine-readable content for agents and applications",
+  
+  "index": {
+    "grimoires": [
+      {
+        "id": "key_of_solomon",
+        "file": "key_of_solomon.json",
+        "title": "The Key of Solomon",
+        "era": "Renaissance",
+        "difficulty": "intermediate",
+        "categories": ["pentacles", "consecration", "exorcism", "planetary_magic"],
+        "products": ["key_of_solomon_digital", "key_of_solomon_starter", "key_of_solomon_deluxe"],
+        "youtube_channel": "Ochema",
+        "popularity_rank": 1
+      },
+      {
+        "id": "book_of_abramelin",
+        "file": "book_of_abramelin.json",
+        "title": "The Book of Abramelin",
+        "era": "15th century",
+        "difficulty": "master",
+        "categories": ["hga", "purification", "evocation", "angelology"],
+        "products": ["abramelin_digital", "abramelin_starter", "abramelin_deluxe"],
+        "youtube_channel": "Ochema",
+        "popularity_rank": 3
+      },
+      {
+        "id": "heptameron",
+        "file": "heptameron.json",
+        "title": "The Heptameron",
+        "era": "14th-15th century",
+        "difficulty": "intermediate",
+        "categories": ["angels", "planetary_hours", "exorcism", "conjuration"],
+        "products": ["heptameron_digital", "heptameron_starter", "heptameron_deluxe"],
+        "youtube_channel": "Ochema",
+        "popularity_rank": 2
+      }
+    ],
+
+    "suppliers": {
+      "ingramspark": {
+        "type": "book_printing",
+        "products": ["grimoire_paperback", "grimoire_hardcover"],
+        "api_available": true,
+        "lead_time_days": 5,
+        "global_shipping": true
+      },
+      "aromags": {
+        "type": "occult_supplies",
+        "products": ["candles", "oils", "spell_kits"],
+        "api_available": false,
+        "lead_time_days": 3,
+        "global_shipping": true
+      },
+      "mountainrose": {
+        "type": "herbs_oils",
+        "products": ["herbs", "incense", "essential_oils"],
+        "api_available": false,
+        "lead_time_days": 4,
+        "global_shipping": true
+      },
+      "prodigi": {
+        "type": "print_on_demand",
+        "products": ["cards", "guides", "posters"],
+        "api_available": true,
+        "lead_time_days": 2,
+        "global_shipping": true
+      },
+      "alibaba": {
+        "type": "packaging_supplies",
+        "products": ["brass_vessels", "swords", "bags", "packaging"],
+        "api_available": false,
+        "lead_time_days": 7,
+        "global_shipping": true
+      },
+      "stamprints": {
+        "type": "wax_seals",
+        "products": ["custom_wax_seals"],
+        "api_available": false,
+        "lead_time_days": 5,
+        "global_shipping": true
+      },
+      "tttjewelry": {
+        "type": "metal_jewelry",
+        "products": ["brass_talismans", "amulets"],
+        "api_available": false,
+        "lead_time_days": 14,
+        "global_shipping": true
+      },
+      "makr3d": {
+        "type": "3d_printing",
+        "products": ["celestial_displays", "dream_tablets", "custom_objects"],
+        "api_available": true,
+        "lead_time_days": 2,
+        "global_shipping": true
+      }
+    },
+
+    "product_registry": {
+      "digital_packs": [
+        {
+          "id": "key_of_solomon_digital",
+          "grimoire": "key_of_solomon",
+          "price": 5,
+          "supplier": "self_fulfilled",
+          "instant_delivery": true
+        },
+        {
+          "id": "abramelin_digital",
+          "grimoire": "book_of_abramelin",
+          "price": 5,
+          "supplier": "self_fulfilled",
+          "instant_delivery": true
+        },
+        {
+          "id": "heptameron_digital",
+          "grimoire": "heptameron",
+          "price": 5,
+          "supplier": "self_fulfilled",
+          "instant_delivery": true
+        }
+      ],
+      "starter_kits": [
+        {
+          "id": "key_of_solomon_starter",
+          "grimoire": "key_of_solomon",
+          "price": 25,
+          "components": ["grimoire_paperback", "candle", "incense", "sigil_card", "guide", "bag"],
+          "multi_supplier": true
+        },
+        {
+          "id": "abramelin_starter",
+          "grimoire": "book_of_abramelin",
+          "price": 25,
+          "components": ["grimoire_paperback", "purification_herbs", "candle", "seal_card", "prayer_book", "bag"],
+          "multi_supplier": true
+        },
+        {
+          "id": "heptameron_starter",
+          "grimoire": "heptameron",
+          "price": 25,
+          "components": ["grimoire_paperback", "candle", "incense", "angel_seal", "hour_guide", "bag"],
+          "multi_supplier": true
+        }
+      ],
+      "deluxe_kits": [
+        {
+          "id": "key_of_solomon_deluxe",
+          "grimoire": "key_of_solomon",
+          "price": 50,
+          "components": ["grimoire_hardcover", "brass_talisman", "wax_seal_kit", "full_candle_set", "sigil_cards", "ritual_guide"],
+          "multi_supplier": true
+        },
+        {
+          "id": "abramelin_deluxe",
+          "grimoire": "book_of_abramelin",
+          "price": 50,
+          "components": ["grimoire_hardcover", "brass_seal", "wax_seal_kit", "purification_set", "temple_poster", "practice_guide"],
+          "multi_supplier": true
+        },
+        {
+          "id": "heptameron_deluxe",
+          "grimoire": "heptameron",
+          "price": 50,
+          "components": ["grimoire_hardcover", "brass_talisman", "wax_seal_kit", "planetary_incense", "angel_seals", "circle_poster"],
+          "multi_supplier": true
+        }
+      ]
+    },
+
+    "knowledge_graph": {
+      "grimoire_to_products": {
+        "key_of_solomon": ["key_of_solomon_digital", "key_of_solomon_starter", "key_of_solomon_deluxe"],
+        "book_of_abramelin": ["abramelin_digital", "abramelin_starter", "abramelin_deluxe"],
+        "heptameron": ["heptameron_digital", "heptameron_starter", "heptameron_deluxe"]
+      },
+      "product_to_suppliers": {
+        "key_of_solomon_starter": ["ingramspark", "aromags", "mountainrose", "prodigi", "alibaba"],
+        "abramelin_starter": ["ingramspark", "mountainrose", "aromags", "prodigi", "alibaba"],
+        "heptameron_starter": ["ingramspark", "aromags", "mountainrose", "prodigi", "alibaba"]
+      },
+      "grimoire_relationships": {
+        "key_of_solomon": {
+          "influences": ["heptameron", "book_of_abramelin"],
+          "influenced_by": [],
+          "themes": ["pentacles", "planetary_magic", "consecration"]
+        },
+        "book_of_abramelin": {
+          "influences": [],
+          "influenced_by": ["key_of_solomon"],
+          "themes": ["hga", "purification", "evocation"]
+        },
+        "heptameron": {
+          "influences": ["key_of_solomon"],
+          "influenced_by": [],
+          "themes": ["angels", "planetary_hours", "exorcism"]
+        }
+      },
+      "category_to_grimoires": {
+        "pentacles": ["key_of_solomon"],
+        "planetary_magic": ["key_of_solomon", "heptameron"],
+        "angels": ["heptameron"],
+        "hga": ["book_of_abramelin"],
+        "purification": ["book_of_abramelin"],
+        "exorcism": ["key_of_solomon", "heptameron"],
+        "evocation": ["book_of_abramelin", "heptameron"]
+      }
+    },
+
+    "agent_prompts": {
+      "recommend_grimoire": "Based on the user's interest in {topic}, I recommend {grimoire} because {reason}. The key concepts include {concepts}. You can start with the {tier} edition at ${price}.",
+      "explain_operation": "The {operation} from {grimoire} requires {components}. This is a {difficulty} operation that typically takes {duration}. The best time to perform it is during {planetary_hour}.",
+      "compare_grimoires": "Both {grimoire1} and {grimoire2} deal with {shared_theme}, but {grimoire1} focuses on {focus1} while {grimoire2} emphasizes {focus2}.",
+      "suggest_products": "For your interest in {topic}, I'd recommend the {product} at ${price}. It includes {contents}."
+    }
+  }
+}

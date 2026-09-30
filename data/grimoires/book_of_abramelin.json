@@ -1,0 +1,254 @@
+{
+  "grimoire": {
+    "id": "book_of_abramelin",
+    "title": "The Book of Abramelin",
+    "subtitle": "The Sacred Magic of Abramelin the Mage",
+    "author": "Abraham of Worms",
+    "compiled": "1458 (translated from Hebrew to German by Abraham of Worms)",
+    "translated_by": "S.L. Liddell MacGregor Mathers",
+    "translation_date": "1898",
+    "source_url": "https://www.sacred-texts.com/grim/ab/index.htm",
+    "license": "public_domain",
+    "language_original": "Hebrew, German",
+    "language_english": "English",
+    
+    "structure": {
+      "books": [
+        {
+          "id": "book_1",
+          "title": "Book One",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "Introduction and Preface",
+              "summary": "Abraham's story and the purpose of the book",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_2",
+              "title": "The Vision of the Holy Guardian Angel",
+              "summary": "The central goal: knowledge and conversation with the HGA",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_3",
+              "title": "The Temple and the Oratory",
+              "summary": "Physical requirements for the operation",
+              "content_length": "~2000 words",
+              "components_required": true
+            },
+            {
+              "id": "ch_4",
+              "title": "The Diet and Purification",
+              "summary": "18-month purification period",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_5",
+              "title": "The Prayer and Rituals",
+              "summary": "Daily prayer structure",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_6",
+              "title": "The Guardian Angels",
+              "summary": "The four angels and their roles",
+              "content_length": "~3000 words"
+            }
+          ]
+        },
+        {
+          "id": "book_2",
+          "title": "Book Two",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The Holy Guardian Angel",
+              "summary": "Knowledge and conversation with the HGA",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_2",
+              "title": "The Evocation of the Four Princes",
+              "summary": "Kings of the four directions",
+              "content_length": "~5000 words"
+            },
+            {
+              "id": "ch_3",
+              "title": "The Evocation of the Eight Sub-Princes",
+              "summary": "Secondary spirits",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_4",
+              "title": "The Formulae of Conjuration",
+              "summary": "The actual conjuration texts",
+              "content_length": "~3000 words"
+            }
+          ]
+        }
+      ]
+    },
+
+    "operations": [
+      {
+        "id": "op_purification",
+        "name": "The 18-Month Purification",
+        "category": "preparation",
+        "difficulty": "advanced",
+        "duration": "18 months",
+        "components_required": [
+          {"item": "temple space", "supplier": "diy", "cost": 0, "notes": "Dedicated room with window facing east"},
+          {"item": "oratory space", "supplier": "diy", "cost": 0, "notes": "Separate room for prayer"},
+          {"item": "dietary restrictions", "source": "book_1_ch_4", "cost": 0},
+          {"item": "prayer book", "source": "book_1_ch_5", "cost": 0},
+          {"item": "purification bath ingredients", "supplier": "mountainrose", "cost": 5.00}
+        ]
+      },
+      {
+        "id": "op_hga_conversation",
+        "name": "Knowledge and Conversation with the Holy Guardian Angel",
+        "category": "devotion",
+        "difficulty": "master",
+        "duration": "Ongoing after purification",
+        "components_required": [
+          {"item": "completed purification", "source": "op_purification", "cost": 0},
+          {"item": "temple space", "supplier": "diy", "cost": 0},
+          {"item": "prayer practice", "source": "book_1_ch_5", "cost": 0},
+          {"item": "guardian angel name", "source": "book_1_ch_6", "cost": 0}
+        ]
+      },
+      {
+        "id": "op_prince_evocation",
+        "name": "Evocation of the Four Princes",
+        "category": "evocation",
+        "difficulty": "master",
+        "duration": "4-6 hours per prince",
+        "components_required": [
+          {"item": "consecrated temple", "source": "op_purification", "cost": 0},
+          {"item": "prince seal design", "source": "book_2_ch_2", "cost": 0},
+          {"item": "brass vessel", "supplier": "alibaba", "cost": 3},
+          {"item": "appropriate incense", "supplier": "mountainrose", "cost": 2},
+          {"item": "purification robes", "supplier": "diy", "cost": 0},
+          {"item": "consecrated water", "supplier": "diy", "cost": 0}
+        ]
+      }
+    ],
+
+    "components_catalog": [
+      {
+        "component": "temple_space",
+        "description": "Dedicated room with east-facing window",
+        "requirements": "Clean, private, east-facing window, no interruptions",
+        "supplier": "diy",
+        "cost": 0
+      },
+      {
+        "component": "oratory_space",
+        "description": "Separate room for daily prayer",
+        "requirements": "Clean, private, comfortable for extended sitting",
+        "supplier": "diy",
+        "cost": 0
+      },
+      {
+        "component": "prayer_book",
+        "description": "Daily prayer text from the grimoire",
+        "source": "book_1_ch_5",
+        "formats": ["pdf"],
+        "supplier": "self_designed",
+        "cost": 0
+      },
+      {
+        "component": "purification_bath",
+        "description": "Herbal bath for ritual purification",
+        "recipe": "Sea salt, rosemary, lavender, hyssop",
+        "supplier": "mountainrose",
+        "cost": 5.00,
+        "alt_suppliers": ["aromags", "starwest"]
+      },
+      {
+        "component": "prince_seal_design",
+        "description": "Seals of the Four Princes",
+        "source": "book_2_ch_2",
+        "formats": ["svg", "pdf", "stl"],
+        "supplier": "self_designed",
+        "cost": 0
+      },
+      {
+        "component": "brass_vessel",
+        "description": "Brass vessel for evocation",
+        "standard_size": "20cm diameter",
+        "supplier": "alibaba",
+        "cost": 3.00,
+        "notes": "Used to bind spirits after evocation"
+      }
+    ],
+
+    "products_generated": [
+      {
+        "product_id": "abramelin_digital",
+        "type": "digital",
+        "name": "Book of Abramelin Digital Pack",
+        "price": 5,
+        "includes": [
+          "Full text (public domain)",
+          "Prince seal SVGs",
+          "Prayer book PDF",
+          "Purification guide",
+          "Temple layout diagram"
+        ],
+        "supplier": "self_fulfilled"
+      },
+      {
+        "product_id": "abramelin_starter",
+        "type": "physical_kit",
+        "name": "Abramelin Starter Kit",
+        "price": 25,
+        "includes": [
+          "Paperback grimoire (IngramSpark)",
+          "Purification bath herbs (Mountain Rose)",
+          "White candle (AromaG's)",
+          "Prince seal card (Prodigi)",
+          "Prayer book (Prodigi)",
+          "Cotton bag (Alibaba)"
+        ],
+        "supplier": "multi_dropship"
+      },
+      {
+        "product_id": "abramelin_deluxe",
+        "type": "physical_kit",
+        "name": "Abramelin Deluxe Edition",
+        "price": 50,
+        "includes": [
+          "Hardcover grimoire (IngramSpark)",
+          "Brass prince seal (TTTJewelry)",
+          "Wax seal kit (Stamprints)",
+          "Full purification set (Mountain Rose + AromaG's)",
+          "Temple layout poster (Prodigi)",
+          "16-page practice guide (Prodigi)"
+        ],
+        "supplier": "multi_dropship"
+      }
+    ],
+
+    "content_for_agents": {
+      "summary": "The Book of Abramelin is a 1458 grimoire written by Abraham of Worms, describing a rigorous 18-month purification process culminating in Knowledge and Conversation with one's Holy Guardian Angel. After achieving the HGA, the practitioner gains power over spirits and can command the Four Princes and their subordinates. The work is divided into two books: preparation and evocation.",
+      "key_concepts": [
+        "Holy Guardian Angel as the central goal",
+        "18-month purification as prerequisite",
+        "The Four Princes of the Cardinal Directions",
+        "Temple and oratory as sacred spaces",
+        "The hierarchy of spirits under the Princes"
+      ],
+      "historical_context": "Written in 1458 by Abraham of Worms, a German Jewish merchant who learned the magic from an Egyptian sage named Abramelin. The text reflects Jewish mystical traditions blended with Western ceremonial magic. Mathers' 1898 translation made it accessible to English-speaking occultists.",
+      "modern_relevance": "The Abramelin operation is considered one of the most demanding magical practices in the Western tradition. Aleister Crowley famously attempted it. Modern practitioners still follow the purification process, though few complete the full 18 months. The HGA concept has become central to Thelema and Chaos Magic.",
+      "related_grimoires": [
+        "key_of_solomon",
+        "heptameron",
+        "grand_grimoire",
+        "picatrix"
+      ],
+      "warning": "This is a historical text describing intense spiritual practices. Ochema presents it as historical scholarship, not as instructions. The purification period is extremely demanding and should not be undertaken lightly."
+    }
+  }
+}

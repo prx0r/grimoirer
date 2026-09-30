@@ -1,0 +1,237 @@
+{
+  "grimoire": {
+    "id": "heptameron",
+    "title": "The Heptameron",
+    "subtitle": "Magical Treatise of Solomon",
+    "author": "Attributed to Solomon, compiled by Peter de Abano",
+    "compiled": "14th-15th century",
+    "translated_by": "Robert Turner (1655)",
+    "source_url": "https://www.sacred-texts.com/grim/hep/index.htm",
+    "license": "public_domain",
+    "language_original": "Latin",
+    "language_english": "English",
+    
+    "structure": {
+      "books": [
+        {
+          "id": "book_1",
+          "title": "The Magical Treatise",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "On the Creation of the World",
+              "summary": "Cosmological framework",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_2",
+              "title": "On the Angels and Their Names",
+              "summary": "The seven planetary angels",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_3",
+              "title": "On the Hours and Their Angels",
+              "summary": "Planetary hour system with angel names",
+              "content_length": "~4000 words",
+              "planetary_hours": true
+            },
+            {
+              "id": "ch_4",
+              "title": "On the Invocation of Angels",
+              "summary": "How to call upon the angels",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_5",
+              "title": "On the Consecration of Implements",
+              "summary": "Tools and their consecration",
+              "content_length": "~3000 words",
+              "components_required": true
+            },
+            {
+              "id": "ch_6",
+              "title": "On the Form of Exorcism",
+              "summary": "The exorcism ritual",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_7",
+              "title": "On the Conjuration",
+              "summary": "How to conjure spirits",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_8",
+              "title": "On the Dismissal of Spirits",
+              "summary": "How to properly dismiss spirits",
+              "content_length": "~2000 words"
+            }
+          ]
+        }
+      ]
+    },
+
+    "operations": [
+      {
+        "id": "op_angel_invocation",
+        "name": "Invocation of the Planetary Angels",
+        "category": "invocation",
+        "difficulty": "intermediate",
+        "duration": "1-2 hours",
+        "planetary_hour": "Varies by angel",
+        "components_required": [
+          {"item": "appropriate incense", "supplier": "mountainrose", "cost": 1.00},
+          {"item": "appropriate candle", "supplier": "aromags", "cost": 0.50},
+          {"item": "consecrated water", "supplier": "diy", "cost": 0},
+          {"item": "angel name seal", "source": "book_1_ch_2", "cost": 0},
+          {"item": "invocation text", "source": "book_1_ch_4", "cost": 0}
+        ]
+      },
+      {
+        "id": "op_exorcism",
+        "name": "Exorcism of Spirits",
+        "category": "exorcism",
+        "difficulty": "advanced",
+        "duration": "2-3 hours",
+        "planetary_hour": "Saturday (Saturn) for binding",
+        "components_required": [
+          {"item": "sacred sword", "supplier": "alibaba", "cost": 5},
+          {"item": "consecrated water", "supplier": "diy", "cost": 0},
+          {"item": "holy seal", "source": "book_1_ch_5", "cost": 0},
+          {"item": "exorcism text", "source": "book_1_ch_6", "cost": 0},
+          {"item": "appropriate incense", "supplier": "mountainrose", "cost": 1.00}
+        ]
+      },
+      {
+        "id": "op_conjuration",
+        "name": "Conjuration of Spirits",
+        "category": "evocation",
+        "difficulty": "advanced",
+        "duration": "2-4 hours",
+        "planetary_hour": "Varies by spirit",
+        "components_required": [
+          {"item": "magic circle design", "source": "book_1_ch_7", "cost": 0},
+          {"item": "brass vessel", "supplier": "alibaba", "cost": 3},
+          {"item": "sacred sword", "supplier": "alibaba", "cost": 5},
+          {"item": "appropriate incense", "supplier": "mountainrose", "cost": 1.00},
+          {"item": "purification robes", "supplier": "diy", "cost": 0},
+          {"item": "conjuration text", "source": "book_1_ch_7", "cost": 0}
+        ]
+      }
+    ],
+
+    "planetary_hours": {
+      "note": "The Heptameron provides a complete planetary hour system with angel names for each hour",
+      "hours": [
+        {"planet": "Sun", "angel": "Michael", "day": "Sunday", "incense": "frankincense", "candle": "gold/yellow"},
+        {"planet": "Moon", "angel": "Gabriel", "day": "Monday", "incense": "white sandalwood", "candle": "white/silver"},
+        {"planet": "Mars", "angel": "Samuel", "day": "Tuesday", "incense": "storax", "candle": "red"},
+        {"planet": "Mercury", "angel": "Raphael", "day": "Wednesday", "incense": "benzoin", "candle": "purple/mixed"},
+        {"planet": "Jupiter", "angel": "Sachiel", "day": "Thursday", "incense": "cedar/saffron", "candle": "blue/sapphire"},
+        {"planet": "Venus", "angel": "Anael", "day": "Friday", "incense": "rose/storax", "candle": "green/rose"},
+        {"planet": "Saturn", "angel": "Cassiel", "day": "Saturday", "incense": "opoponax/myrrh", "candle": "black/dark blue"}
+      ]
+    },
+
+    "components_catalog": [
+      {
+        "component": "sacred_sword",
+        "description": "Athame or ritual sword for exorcism",
+        "standard_size": "30-40cm",
+        "supplier": "alibaba",
+        "cost": 5.00,
+        "alt_suppliers": ["local_craftsman"]
+      },
+      {
+        "component": "brass_vessel",
+        "description": "Brass vessel for spirit binding",
+        "standard_size": "15cm diameter",
+        "supplier": "alibaba",
+        "cost": 3.00
+      },
+      {
+        "component": "angel_seal_design",
+        "description": "Seals of the seven planetary angels",
+        "source": "book_1_ch_2",
+        "formats": ["svg", "pdf"],
+        "supplier": "self_designed",
+        "cost": 0
+      },
+      {
+        "component": "magic_circle_design",
+        "description": "Consecrated magic circle",
+        "source": "book_1_ch_7",
+        "formats": ["svg", "pdf"],
+        "supplier": "self_designed",
+        "cost": 0
+      }
+    ],
+
+    "products_generated": [
+      {
+        "product_id": "heptameron_digital",
+        "type": "digital",
+        "name": "Heptameron Digital Pack",
+        "price": 5,
+        "includes": [
+          "Full text (public domain)",
+          "Angel seal SVGs",
+          "Planetary hour calculator",
+          "Consecration guide",
+          "Magic circle template"
+        ],
+        "supplier": "self_fulfilled"
+      },
+      {
+        "product_id": "heptameron_starter",
+        "type": "physical_kit",
+        "name": "Heptameron Starter Kit",
+        "price": 25,
+        "includes": [
+          "Paperback grimoire (IngramSpark)",
+          "White candle (AromaG's)",
+          "Frankincense incense (Mountain Rose)",
+          "Angel seal card (Prodigi)",
+          "Planetary hour guide (Prodigi)",
+          "Cotton bag (Alibaba)"
+        ],
+        "supplier": "multi_dropship"
+      },
+      {
+        "product_id": "heptameron_deluxe",
+        "type": "physical_kit",
+        "name": "Heptameron Deluxe Edition",
+        "price": 50,
+        "includes": [
+          "Hardcover grimoire (IngramSpark)",
+          "Brass angel talisman (TTTJewelry)",
+          "Wax seal kit (Stamprints)",
+          "Full planetary incense set (Mountain Rose)",
+          "7 angel seal cards (Prodigi)",
+          "Magic circle poster (Prodigi)"
+        ],
+        "supplier": "multi_dropship"
+      }
+    ],
+
+    "content_for_agents": {
+      "summary": "The Heptameron is a 14th-15th century magical treatise attributed to Solomon, compiled by Peter de Abano. It provides a complete system for angel invocation, exorcism, and spirit conjuration based on the planetary hours. Each hour of the day and night is governed by a planet and its corresponding angel, with specific incenses and candles for each.",
+      "key_concepts": [
+        "Seven planetary angels and their hours",
+        "Consecration of implements by planetary correspondence",
+        "Exorcism using sacred sword and divine names",
+        "Conjuration within a consecrated magic circle",
+        "Proper dismissal of spirits"
+      ],
+      "historical_context": "The Heptameron reflects the angelological tradition of medieval Christianity blended with planetary magic. Peter de Abano (1257-1316) was an Italian physician and astrologer who compiled existing magical traditions into a systematic treatise.",
+      "modern_relevance": "The planetary hour system remains widely used in ceremonial magic. The angel invocation methods are foundational to Enochian magic and Thelema. The exorcism framework influenced later grimoires including the Key of Solomon.",
+      "related_grimoires": [
+        "key_of_solomon",
+        "book_of_abramelin",
+        "picatrix",
+        "grand_grimoire"
+      ]
+    }
+  }
+}

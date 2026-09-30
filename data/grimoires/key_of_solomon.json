@@ -1,0 +1,298 @@
+{
+  "grimoire": {
+    "id": "key_of_solomon",
+    "title": "The Key of Solomon",
+    "subtitle": "Clavicula Salomonis",
+    "author": "Attributed to King Solomon",
+    "compiled": "14th-15th century Italian Renaissance",
+    "translated_by": "S.L. Liddell MacGregor Mathers",
+    "translation_date": "1889",
+    "source_url": "https://www.sacred-texts.com/grim/kos/index.htm",
+    "license": "public_domain",
+    "language_original": "Latin, Hebrew",
+    "language_english": "English",
+    
+    "structure": {
+      "books": [
+        {
+          "id": "book_1",
+          "title": "Book One",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "Concerning the Divisions of the Operations",
+              "summary": "The two books and their purposes",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_2",
+              "title": "The Instruments and Garments Necessary for this Art",
+              "summary": "Required tools, robes, and implements",
+              "content_length": "~5000 words",
+              "components_required": true
+            },
+            {
+              "id": "ch_3",
+              "title": "The Confessions to be Made by the Exorcist",
+              "summary": "Purification rituals and confessions",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_4",
+              "title": "The Confessions to be Made by the Exorcist at the Entrance of the Circle",
+              "summary": "Circle preparation and consecration",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_5",
+              "title": "Concerning the Hours of the Day and Night",
+              "summary": "Planetary hours and their significance",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_6",
+              "title": "Concerning the Days and the Planetary Hours",
+              "summary": "Extended planetary hour system",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_7",
+              "title": "The Names of the Angels and the Instruments",
+              "summary": "Angelic names and their corresponding tools",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_8",
+              "title": "The Pentacles",
+              "summary": "72 pentacles for various operations",
+              "content_length": "~8000 words",
+              "pentacles_count": 72
+            }
+          ]
+        },
+        {
+          "id": "book_2",
+          "title": "Book Two",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The Exorcism of Spirits",
+              "summary": "Methods for binding and commanding spirits",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_2",
+              "title": "The Formula of Exorcism",
+              "summary": "The actual exorcism text",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_3",
+              "title": "The Conjuration of the One Hundred and Fifty Spirits",
+              "summary": "Conjuration methods for 150 spirits",
+              "content_length": "~5000 words"
+            },
+            {
+              "id": "ch_4",
+              "title": "The Number and the Name of the Seven Great Princes",
+              "summary": "The seven princes of darkness",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_5",
+              "title": "The Consecrations",
+              "summary": "Consecration of tools, garments, and space",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_6",
+              "title": "The Confessions to be Made by the Exorcist",
+              "summary": "Final purification rites",
+              "content_length": "~2000 words"
+            }
+          ]
+        }
+      ]
+    },
+
+    "operations": [
+      {
+        "id": "op_consecration",
+        "name": "Consecration of Tools",
+        "category": "purification",
+        "difficulty": "beginner",
+        "duration": "2-3 hours",
+        "planetary_hour": "Thursday (Jupiter)",
+        "components_required": [
+          {"item": "consecrated water", "supplier": "diy", "cost": 0},
+          {"item": "white candle", "supplier": "aromags", "cost": 0.50},
+          {"item": "frankincense incense", "supplier": "mountainrose", "cost": 1.00},
+          {"item": "purification prayer text", "source": "book_2_ch_5", "cost": 0}
+        ]
+      },
+      {
+        "id": "op_pentacle_consecration",
+        "name": "Consecration of Pentacles",
+        "category": "ritual",
+        "difficulty": "intermediate",
+        "duration": "1-2 hours",
+        "planetary_hour": "Varies by pentacle",
+        "components_required": [
+          {"item": "pentacle design", "source": "book_1_ch_8", "cost": 0},
+          {"item": "engraving tool or laser service", "supplier": "local_engraver", "cost": 5},
+          {"item": "consecrated water", "supplier": "diy", "cost": 0},
+          {"item": "appropriate planetary incense", "supplier": "mountainrose", "cost": 1.00},
+          {"item": "appropriate planetary candle", "supplier": "aromags", "cost": 0.50}
+        ]
+      },
+      {
+        "id": "op_spirit_binding",
+        "name": "Spirit Binding",
+        "category": "evocation",
+        "difficulty": "advanced",
+        "duration": "3-4 hours",
+        "planetary_hour": "Varies by spirit",
+        "components_required": [
+          {"item": "magic circle design", "source": "book_1_ch_4", "cost": 0},
+          {"item": "brass vessel", "supplier": "alibaba", "cost": 3},
+          {"item": "consecrated water", "supplier": "diy", "cost": 0},
+          {"item": "appropriate incense", "supplier": "mountainrose", "cost": 1.00},
+          {"item": "purification robes", "supplier": "diy", "cost": 0},
+          {"item": "sacred sword or athame", "supplier": "alibaba", "cost": 5}
+        ]
+      }
+    ],
+
+    "components_catalog": [
+      {
+        "component": "consecrated_water",
+        "description": "Water blessed in the ritual",
+        "how_to_make": "Boil water with appropriate herbs, cool in moonlight",
+        "supplier": "diy",
+        "cost": 0
+      },
+      {
+        "component": "white_candle",
+        "description": "Pure white candle for purification",
+        "standard_size": "4 inch chime candle",
+        "supplier": "aromags",
+        "cost": 0.50,
+        "alt_suppliers": ["candlescience", "alibaba"]
+      },
+      {
+        "component": "frankincense_incense",
+        "description": "Frankincense resin or sticks",
+        "usage": "Consecration and purification",
+        "supplier": "mountainrose",
+        "cost": 1.00,
+        "alt_suppliers": ["aromags", "starwest"]
+      },
+      {
+        "component": "pentacle_design",
+        "description": "Engravable pentacle design from Book 1",
+        "source": "book_1_ch_8",
+        "formats": ["svg", "pdf", "stl"],
+        "supplier": "self_designed",
+        "cost": 0
+      },
+      {
+        "component": "brass_vessel",
+        "description": "Brass vessel for spirit binding",
+        "standard_size": "15cm diameter",
+        "supplier": "alibaba",
+        "cost": 3.00,
+        "alt_suppliers": ["local_brass_works"]
+      },
+      {
+        "component": "magic_circle",
+        "description": "Magic circle design for evocation",
+        "source": "book_1_ch_4",
+        "formats": ["svg", "pdf"],
+        "supplier": "self_designed",
+        "cost": 0
+      },
+      {
+        "component": "sacred_sword",
+        "description": "Athame or ritual sword",
+        "standard_size": "30-40cm",
+        "supplier": "alibaba",
+        "cost": 5.00,
+        "alt_suppliers": ["local_craftsman"]
+      },
+      {
+        "component": "purification_robes",
+        "description": "White robes for ritual",
+        "standard_size": "Adjustable",
+        "supplier": "diy",
+        "cost": 0,
+        "notes": "Can be made from white cotton"
+      }
+    ],
+
+    "products_generated": [
+      {
+        "product_id": "key_of_solomon_digital",
+        "type": "digital",
+        "name": "Key of Solomon Digital Pack",
+        "price": 5,
+        "includes": [
+          "Full text (public domain)",
+          "72 pentacle SVGs",
+          "Pentacle print sheet",
+          "Consecration guide",
+          "Planetary hour calculator"
+        ],
+        "supplier": "self_fulfilled"
+      },
+      {
+        "product_id": "key_of_solomon_starter",
+        "type": "physical_kit",
+        "name": "Key of Solomon Starter Kit",
+        "price": 25,
+        "includes": [
+          "Paperback grimoire (IngramSpark)",
+          "Blue chime candle (AromaG's)",
+          "Frankincense incense (Mountain Rose)",
+          "Pentacle card (Prodigi)",
+          "Consecration guide (Prodigi)",
+          "Cotton bag (Alibaba)"
+        ],
+        "supplier": "multi_dropship"
+      },
+      {
+        "product_id": "key_of_solomon_deluxe",
+        "type": "physical_kit",
+        "name": "Key of Solomon Deluxe Edition",
+        "price": 50,
+        "includes": [
+          "Hardcover grimoire (IngramSpark)",
+          "Brass talisman (TTTJewelry)",
+          "Wax seal kit (Stamprints)",
+          "Full candle + oil + herb set (AromaG's)",
+          "10 sigil cards (Prodigi)",
+          "16-page ritual guide (Prodigi)"
+        ],
+        "supplier": "multi_dropship"
+      }
+    ],
+
+    "content_for_agents": {
+      "summary": "The Key of Solomon is a Renaissance grimoire attributed to King Solomon, compiled in 14th-15th century Italy. It describes rituals for consecration, exorcism, and spirit binding. The work is divided into two books: Book One covers preparation, tools, and pentacles; Book Two covers exorcism and conjuration. The most famous translation is by S.L. Liddell MacGregor Mathers (1889), which remains the standard English version in the public domain.",
+      "key_concepts": [
+        "Pentacles as talismanic symbols",
+        "Planetary hours and their correspondence",
+        "Consecration of tools and space",
+        "Spirit binding through divine names",
+        "The 72 pentacles for various operations"
+      ],
+      "historical_context": "Written during the Italian Renaissance, the Key of Solomon reflects the syncretic magic of the period — blending Jewish Kabbalah, Christian angelology, and Greco-Roman planetary magic. It was likely compiled by multiple authors over several decades.",
+      "modern_relevance": "The pentacle system remains widely used in modern ceremonial magic. The consecration methods are foundational to many contemporary practices. The planetary hour system is still used by ceremonial magicians worldwide.",
+      "related_grimoires": [
+        "lesser_key_of_solomon",
+        "heptameron",
+        "picatrix",
+        "grand_grimoire"
+      ]
+    }
+  }
+}
