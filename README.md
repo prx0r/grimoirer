@@ -1,76 +1,65 @@
 # Grimoirer
 
-> Your practice, your way. Custom occult tools for modern practitioners.
+> Grimoires and magical texts brought back to life.
+> A Rasa House label.
 
-## What This Is
+## Positioning
 
-Grimoirer makes custom occult products — grimoire kits, enchanted diaries, bespoke tarot, birth charts, lucid dreaming tools, and digital grimoire assets. Not mass-produced witchmall stuff. Every product is personalized, custom-engraved, or designed from scratch.
+Grimoirer is a **label under Rasa House**, not a standalone brand. It covers:
 
-## The Audience
+- YouTube: grimoire explainers + dramatized readings
+- Amazon: translations, annotated editions (Grimoirer Library series)
+- Etsy: physical objects via **Ochema** shop
 
-- Modern witches, pagans, chaos magicians
-- Astrology enthusiasts (not just sun-sign casuals)
-- Lucid dreamers and astral travelers
-- Grimoire keepers and book-of-shadows builders
-- Tarot readers (personal and professional)
-- Occult aesthetic collectors
+## What Grimoirer Makes
 
-## What We Sell
+### Digital Products (self-fulfilled)
+| Product | Price | Format |
+|---------|-------|--------|
+| Tarot spread templates + journal | $14.99 | PDF bundle |
+| Printable grimoire pages (50+) | $12.99 | PDF |
+| Birth chart + interpretation | $19.99 | PDF + print |
+| Sigil packs (intent-specific) | $7.99 | PNG + PDF |
+| Occult wallpapers | $4.99 | PNG |
 
-### Physical Products
-| Category | Products | Margin |
-|----------|----------|--------|
-| **Grimoire Kits** | Complete starter bundles (journal, pen, wax seal, stickers) | 70-80% |
-| **Engraved Diaries** | Leather-bound, custom-engraved covers | 75-85% |
-| **Custom Tarot** | Illustrated cards, custom spreads | 80-90% |
-| **Birth Charts** | Printed natal charts with interpretation | 85-90% |
-| **Lucid Dreaming** | Dream journals, reality check cards, sleep tools | 75-85% |
-| **Wax Seals** | Custom sigil seals, zodiac seals | 85-90% |
-| **Incense/Herb Kits** | Curated ritual kits (sourced, not made) | 60-70% |
+### Physical Products (via Ochema Etsy shop)
+| Product | Price | Supplier |
+|---------|-------|----------|
+| Wax seal kit | $24.99 | Alibaba + self |
+| Engraved leather grimoire | $39.99 | Alibaba + laser |
+| Ritual kit (sabbat) | $34.99 | Alibaba + Prodigi |
+| Custom tarot card | $24.99 | MakePlayingCards |
 
-### Digital Products
-| Category | Products | Margin |
-|----------|----------|--------|
-| **Grimoire Pages** | Printable journal pages, trackers, templates | 95% |
-| **Tarot Spreads** | Custom spread templates with interpretations | 95% |
-| **Birth Chart Generators** | Notion/Sheets templates | 95% |
-| **Sigil Packs** | Pre-made sigil sets for common intentions | 95% |
-| **Ritual Guides** | Step-by-step ritual instructions | 95% |
-| **Wallpapers** | Occult aesthetic phone/desktop backgrounds | 95% |
-| **Canva Templates** | Editable grimoire page designs | 95% |
+## Amazon Series
 
-## Brand Separation
+```
+GRIMOIRER LIBRARY № 01
+The Key of Solomon
+New Translation, Notes & Diagrams
+A Rasa House Edition
+```
 
-| Brand | Products | Audience |
-|-------|----------|----------|
-| **Grimoirer** | Occult/spiritual tools | Witches, pagans, astrologers |
-| **OddHobbies** | Hobby accessories (secular) | Crafters, gamers, hobbyists |
-| **DivergentJoy** | Neurodivergent tools | ADHD, autism, PDA community |
+### Planned Titles
+| # | Title | Status |
+|---|-------|--------|
+| 1 | The Key of Solomon | Planning |
+| 2 | The Heptameron | Planning |
+| 3 | The Book of Abramelin | Planning |
+| 4 | The Picatrix | Planning |
+| 5 | Ancient Greek Magical Papyri | Planning |
 
-**Cross-sell:** Grimoirer and OddHobbies share craft-adjacent audiences (needle minders with occult designs go in Ochema). DivergentJoy's sleep/dream tools could cross-promote with Grimoirer's lucid dreaming line.
+## YouTube Channel
 
-## IP Guardrails
+**Content types:**
+- Grimoire deep-dives (what is X, where did it come from)
+- Dramatized readings (historical voice + visuals)
+- "How to read" tutorials
+- Comparison videos (Grimoire A vs Grimoire B)
+- Historical context explainers
 
-| Don't | Do |
-|-------|-----|
-| Use "Rider-Waite" in tarot listings | "Original illustrated tarot" |
-| Claim "accurate birth chart" | "Personalized birth chart interpretation" |
-| Use trademarked occult symbols | Original sigil designs |
-| Make medical claims about dreams | "Supports dream recall" not "treats insomnia" |
+## Connection to Rasa House
 
-## Pricing Strategy
-
-| Tier | Price Point | Products |
-|------|------------|----------|
-| **Entry** | $5-12 | Digital downloads, single pages, wallpapers |
-| **Mid** | $15-30 | Physical kits, engraved items, custom tarot |
-| **Premium** | $35-60 | Complete grimoire sets, birth chart + interpretation |
-| **Luxury** | $75-150 | Full custom grimoire, hand-bound journals |
-
-## Revenue Mix Target
-
-| Source | % Revenue | Margin |
-|--------|-----------|--------|
-| Digital products | 40% | 95% |
-| Physical customized | 35% | 75-85% |
-| Bundles/kits | 25% | 70-80% |
+- Grimoirer YouTube → drives traffic to Ochema (Etsy)
+- Grimoirer Amazon books → cross-promote Astrael (dreams) and Daimon Dreams (Greek)
+- Ochema physical objects → appear in Grimoirer YouTube as props/references
+- All revenue flows back to Rasa House infrastructure
