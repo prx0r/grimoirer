@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.generated.*
+/output/
+
+# Large assets
+*.stl
+*.3mf
+*.obj
+*.ttf
+*.otf
+
+# Temp
+/tmp/
+*.tmp
