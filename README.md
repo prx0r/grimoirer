@@ -1,6 +1,6 @@
 # Ochema — Esoteric Projects Brand
 
-> Domain: ochema.art
+> Domain: ochema.co
 > Spells, rituals, dream work, tarot, grimoires.
 > Same machine as OddHobb, esoteric twist.
 
