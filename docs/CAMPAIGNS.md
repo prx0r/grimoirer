@@ -1,6 +1,6 @@
-# Grimoirer — Campaign Specs
+# Ochema — Campaign Specs
 
-> Spell kits, dream work, tarot, grimoires. Same machine as OddHobb, esoteric twist.
+> 3 full campaigns. Same machine as OddHobb.
 
 ---
 
@@ -17,10 +17,10 @@
 ### Products
 | Product | Supplier | Cost | Retail |
 |---------|----------|------|--------|
-| Protection Spell Kit | Alibaba + self | £4.00 | £18.99 |
-| Sigil Creation Project | Self (digital) | £0 | £6.99 |
-| Protection Grimoire eBook | Self (digital) | £0 | £3.99 |
-| CD: Rituals Slowly Explained | Kunaki | £1.50 | £11.99 |
+| Protection Spell Kit | Alibaba + self | $4.00 | $18.99 |
+| Sigil Creation Project | Self (digital) | $0 | $6.99 |
+| Protection Grimoire eBook | Self (digital) | $0 | $3.99 |
+| CD: Rituals Slowly Explained | Kunaki | $2.00 | $11.99 |
 
 ### Videos
 | Episode | Format | Length | Product |
@@ -67,10 +67,10 @@
 ### Products
 | Product | Supplier | Cost | Retail |
 |---------|----------|------|--------|
-| Dream Incubation Kit | Alibaba + self | £5.00 | £21.99 |
-| Dream Journal Project | Self (digital) | £0 | £6.99 |
-| Dream Work eBook | Self (digital) | £0 | £3.99 |
-| CD: The Dream Traditions | Kunaki | £1.50 | £11.99 |
+| Dream Incubation Kit | Alibaba + self | $5.00 | $21.99 |
+| Dream Journal Project | Self (digital) | $0 | $6.99 |
+| Dream Work eBook | Self (digital) | $0 | $3.99 |
+| CD: The Dream Traditions | Kunaki | $2.00 | $11.99 |
 
 ### Videos
 | Episode | Format | Length | Product |
@@ -104,10 +104,10 @@
 ### Products
 | Product | Supplier | Cost | Retail |
 |---------|----------|------|--------|
-| Custom Tarot Card | MakePlayingCards | £5.00 | £24.99 |
-| Tarot Spread Project | Self (digital) | £0 | £8.99 |
-| Tarot Guide eBook | Self (digital) | £0 | £4.99 |
-| CD: Tarot After Midnight | Kunaki | £1.50 | £11.99 |
+| Custom Tarot Card | MakePlayingCards | $5.00 | $24.99 |
+| Tarot Spread Project | Self (digital) | $0 | $8.99 |
+| Tarot Guide eBook | Self (digital) | $0 | $4.99 |
+| CD: Tarot After Midnight | Kunaki | $2.00 | $11.99 |
 
 ### Videos
 | Episode | Format | Length | Product |
@@ -128,7 +128,7 @@
 
 ---
 
-## Total Grimoirer Revenue Projection
+## Total Ochema Revenue Projection
 
 | Stream | Month 1 | Month 3 | Month 6 | Month 12 |
 |--------|---------|---------|---------|----------|

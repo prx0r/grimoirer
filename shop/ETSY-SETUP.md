@@ -1,120 +1,100 @@
-# Etsy Shop Setup — Grimoirer
+# Ochema Etsy Shop Setup
 
 ## Shop Info
 
 | Field | Value |
 |-------|-------|
-| **Shop name** | Grimoirer |
-| **Tagline** | Your practice, your way |
-| **About** | Custom occult tools for modern practitioners. Every grimoire is hand-bound, every chart is cast by hand, every sigil is drawn with intention. We don't do mass-produced witchmall stuff. This is for your practice. |
+| **Shop name** | Ochema |
+| **URL** | etsy.com/shop/ochema (or grimoirer) |
+| **Tagline** | Esoteric objects for modern practitioners |
+| **About** | Sacred objects for your practice. Digital grimoire pages, tarot spreads, sigil packs, dream journals, birth charts. Original designs by practitioners, for practitioners. |
 
 ## Sections
 
-1. **Digital Grimoire** — Printable pages, sigils, spreads, templates
-2. **Grimoire Kits** — Starter bundles, sabbat kits, ritual sets
-3. **Engraved Diaries** — Custom leather journals, dream diaries
-4. **Tarot** — Custom cards, original decks, spread templates
-5. **Astrology** — Birth charts, compatibility, astro templates
-6. **Lucid Dreaming** — Dream journals, reality checks, sleep kits
-7. **Bundles** — Gift sets, practitioner bundles
+1. **Spell Kits** — Protection, love, abundance, cleansing, dream
+2. **Digital Projects** — Sigils, grimoire pages, tarot spreads
+3. **Custom Items** — Engraved grimoires, custom tarot, wax seals
+4. **Celestial Objects** — Dream tablets, display pieces, LED items
+5. **Physical Media** — CDs, albums
+6. **Bundles** — Spell kit + digital combos
 
-## Pricing Strategy
+## Banner Design
 
-| Tier | Price | Products |
-|------|-------|----------|
-| Entry | $5-12 | Digital downloads, sigils, wallpapers |
-| Mid | $15-30 | Printed items, custom cards, journals |
-| Premium | $35-60 | Engraved items, kits, birth charts |
-| Luxury | $75-150 | Full custom grimoire, hand-bound sets |
+**Concept:** Dark, moody, celestial. Gold accents on deep purple/black. Candles, crystals, old keys, feathers. Product lit to show detail.
 
-## SEO Keywords
+**Colors:** Deep purple (#3D1F5C) + gold (#C9A94E) + black (#1A1A1A)
 
-### Primary
-- grimoire
-- book of shadows
-- witch gift
-- occult
-- tarot
-- birth chart
-- lucid dreaming
-- pagan
-
-### Secondary
-- wax seal
-- custom journal
-- spell book
-- ritual kit
-- sigil
-- natal chart
-- dream journal
-
-### Long-tail
-- custom engraved grimoire
-- personalized tarot card
-- birth chart print
-- lucid dreaming starter kit
-- samhain ritual kit
-- wiccan gift set
+**Text:** "OCHEMA — Esoteric objects for modern practitioners"
 
 ## Photo Strategy
 
 ### Aesthetic
-- Dark, moody lighting (candlelight, warm tungsten)
-- Black/dark wood backgrounds
-- Props: crystals, candles, dried herbs, old keys, feathers
-- Show engraving/detail with close-up shots
-- Include scale references (hand holding product)
+- Dark backgrounds (black velvet, dark wood)
+- Candlelight or warm tungsten
+- Props: candles, crystals, dried herbs, old keys
+- Product lit to show engraving/detail
+- No white backgrounds
 
-### Per Listing
-1. Hero shot (product centered, moody lighting)
+### Per Listing (10 slots)
+1. Hero shot (dark background, candlelight, product mockup)
 2. Detail shot (engraving, texture, quality)
-3. In-use shot (person holding/using)
+3. In-use shot (person holding/using product)
 4. Flat lay (all items in kit)
 5. Scale reference (hand, coin, ruler)
 6. Packaging (how it arrives)
 7. Variant options (all colors/designs)
-8. Lifestyle (altar, desk, nightstand)
+8. Lifestyle shot (altar, desk, nightstand)
+9. Bundle shot (kit contents together)
+10. Size diagram with measurements
 
-## Supplier Notes
+## SEO Strategy
 
-### Engraving
-- In-house: Laser engraver (Epilog or similar)
-- Outsource: CustomMade, local engravers
-- Turnaround: 3-5 business days
+### Primary Keywords
+- grimoire pages
+- book of shadows
+- protection spell
+- tarot spread
+- sigil pack
+- dream journal
+- birth chart
+- wax seal
+- witchcraft
+- pagan
 
-### Leather Journals
-- Source: AliExpress, Alibaba (blank A5 journals)
-- Customize: Engrave in-house or outsource
-- MOQ: 10-50 for blanks
+### Long-tail
+- printable grimoire pages dark mode
+- tarot spread template bundle
+- protection sigil pack digital
+- lucid dreaming kit printable
+- birth chart interpretation personalized
+- custom wax seal zodiac
 
-### Tarot Cards
-- Source: MakePlayingCards.com, DriveThruCards
-- Custom art: Commission or AI-generated + hand-finished
-- MOQ: 1 deck (print on demand possible)
+### Seasonal
+- samhain ritual kit (October)
+- yule gift witch (December)
+- christmas pagan gift
+- winter solstice ritual
 
-### Herbs/Incense
-- Source: Bulk herbs from Mountain Rose Herbs, Starwest Botanicals
-- Package in small muslin bags
-- Include ingredient list and safety notes
+## First 5 Listings
 
-### Wax Seals
-- Source: Custom brass seals from Etsy manufacturers
-- Wax: Bulk sealing wax from Amazon/Alibaba
-- Margins: 85%+ on wax seals
+| # | Product | Price | Supplier | Status |
+|---|---------|-------|----------|--------|
+| 1 | Protection Spell Kit | $18.99 | Alibaba + self | Ready |
+| 2 | Sigil Creation Project | $6.99 | Self (digital) | Ready |
+| 3 | Dream Incubation Kit | $21.99 | Alibaba + self | Ready |
+| 4 | Tarot Spread Project | $8.99 | Self (digital) | Ready |
+| 5 | Grimoire Page Pack | $7.99 | Self (digital) | Ready |
 
-## Seasonal Calendar
+## Samhain Launch Plan (Oct 14-31)
 
-| Month | Focus | Products |
-|-------|-------|----------|
-| Jan | New Year, intentions | Birth charts, goal journals |
-| Feb | Love, relationships | Love sigils, compatibility charts |
-| Mar | Ostara, renewal | Spring ritual kits |
-| Apr | Growth, abundance | Abundance sigils, herb kits |
-| May | Beltane, passion | Love tarot, fire ritual kits |
-| Jun | Litha, sun | Sun sigils, summer solstice kits |
-| Jul | Growth, full power | Abundance kits, manifestation pages |
-| Aug | Lughnasadh, harvest | Gratitude journals, harvest kits |
-| Sep | Mabon, balance | Balance ritual, autumn equinox kits |
-| Oct | Samhain, divination | Tarot, divination kits, ancestor work |
-| Nov | Ancestor work, gratitude | Ancestor journals, death tarot |
-| Dec | Yule, reflection | Winter ritual kits, year review journals |
+### Week 1 (Oct 14-21):
+- [ ] Shop live with 5 products
+- [ ] YouTube: "How to Cast a Protection Spell"
+- [ ] Pinterest: occult aesthetic posts
+- [ ] Instagram: daily occult content
+
+### Week 2 (Oct 21-31):
+- [ ] Add Samhain-specific products
+- [ ] YouTube: "Samhain Ritual Guide"
+- [ ] Etsy ads: target "samhain", "witch gift", "pagan"
+- [ ] Last-order date for digital: Oct 28

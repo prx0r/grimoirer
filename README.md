@@ -1,19 +1,20 @@
-# Grimoirer
+# Ochema — Esoteric Projects Brand
 
-> Esoteric projects, spells, rituals, and custom quality occult products.
-> Domain: grimoirer.com
+> Domain: ochema.art
+> Spells, rituals, dream work, tarot, grimoires.
+> Same machine as OddHobb, esoteric twist.
 
 ---
 
-## What Grimoirer Is
+## What Ochema Is
 
-**Grimoirer = the esoteric projects brand.**
+**Ochema = the esoteric projects brand.**
 
 Like OddHobbies but for the occult. Instead of "build a cyberdeck," it's "cast a protection spell." Instead of hobby tools, it's ritual objects. Instead of sleepy content about watchmaking, it's sleepy content about grimoires and dream traditions.
 
 **The tagline:** *Your practice, your way.*
 
-**The promise:** Every Grimoirer creation is yours to keep — physical and digital.
+**The promise:** Every Ochema creation is yours to keep — physical and digital.
 
 ---
 
@@ -23,39 +24,39 @@ Like OddHobbies but for the occult. Instead of "build a cyberdeck," it's "cast a
 
 | Product | Price | What's Included |
 |---------|-------|----------------|
-| Protection Spell Kit | £18.99 | Candle, sigil card, ritual guide, spell PDF |
-| Love Spell Kit | £18.99 | Rose candle, love sigil, ritual guide |
-| Abundance Spell Kit | £18.99 | Green candle, money sigil, ritual guide |
-| Cleansing Ritual Kit | £16.99 | Sage alternative, cleansing guide, spray recipe |
-| Dream Incubation Kit | £21.99 | Dream journal, incubation cards, guide |
+| Protection Spell Kit | $18.99 | Candle, sigil card, ritual guide, spell PDF |
+| Love Spell Kit | $18.99 | Rose candle, love sigil, ritual guide |
+| Abundance Spell Kit | $18.99 | Green candle, money sigil, ritual guide |
+| Cleansing Ritual Kit | $16.99 | Sage alternative, cleansing guide, spray recipe |
+| Dream Incubation Kit | $21.99 | Dream journal, incubation cards, guide |
 
 ### Line 2: Digital Projects
 
 | Product | Price | What's Included |
 |---------|-------|----------------|
-| Sigil Creation Project | £6.99 | Sigil worksheet, examples, tutorial video |
-| Grimoire Page Pack | £7.99 | 50+ printable pages, templates |
-| Tarot Spread Project | £8.99 | 20 spreads, journal pages, guide |
-| Birth Chart Project | £9.99 | Chart template, interpretation guide |
-| Dream Journal Project | £6.99 | Journal pages, dream symbols guide |
+| Sigil Creation Project | $6.99 | Sigil worksheet, examples, tutorial video |
+| Grimoire Page Pack | $7.99 | 50+ printable pages, templates |
+| Tarot Spread Project | $8.99 | 20 spreads, journal pages, guide |
+| Birth Chart Project | $9.99 | Chart template, interpretation guide |
+| Dream Journal Project | $6.99 | Journal pages, dream symbols guide |
 
 ### Line 3: Custom Quality Items
 
 | Product | Price | What's Included |
 |---------|-------|----------------|
-| Engraved Leather Grimoire | £39.99 | Custom cover, 200 pages, engraving |
-| Custom Tarot Card | £24.99 | Personalized illustration, velvet pouch |
-| Wax Seal Kit | £24.99 | Brass seal, wax sticks, instruction card |
-| Celestial Display Piece | £18.99 | 3D-printed, LED option, custom plaque |
-| Dream Tablet | £14.99 | 3D-printed, engraved, display stand |
+| Engraved Leather Grimoire | $39.99 | Custom cover, 200 pages, engraving |
+| Custom Tarot Card | $24.99 | Personalized illustration, velvet pouch |
+| Wax Seal Kit | $24.99 | Brass seal, wax sticks, instruction card |
+| Celestial Display Piece | $18.99 | 3D-printed, LED option, custom plaque |
+| Dream Tablet | $14.99 | 3D-printed, engraved, display stand |
 
-### Line 4: Physical Media (OddHobb Records)
+### Line 4: Physical Media
 
 | Product | Price | What's Included |
 |---------|-------|----------------|
-| CD: Grimoires After Midnight | £11.99 | 8 tracks, jewel case, liner notes |
-| CD: The Dream Traditions | £11.99 | 8 tracks, jewel case |
-| CD: Rituals Slowly Explained | £11.99 | 8 tracks, jewel case |
+| CD: Grimoires After Midnight | $11.99 | 8 tracks, jewel case, liner notes |
+| CD: The Dream Traditions | $11.99 | 8 tracks, jewel case |
+| CD: Rituals Slowly Explained | $11.99 | 8 tracks, jewel case |
 
 ---
 
@@ -65,7 +66,7 @@ Every purchase includes:
 - Physical product
 - Downloadable digital asset (SVG, PDF, STL)
 - Perpetual personal-use licence
-- Saved in Grimoirer Vault
+- Saved in Ochema Vault
 - Reusable on future compatible products
 
 **The compounding effect:**
@@ -91,7 +92,7 @@ Creative cost: ONCE.
 
 | Channel | Content | Frequency |
 |---------|---------|-----------|
-| **Grimoirer** | Grimoire explainers, dramatized readings | 2x/week |
+| **Ochema** | Grimoire explainers, spell tutorials | 2x/week |
 | **Daimon Dreams** | Greek dream traditions | 2x/week |
 | **Magus Logs** | Historical diaries (Dee, etc.) | 2x/week |
 | **Astrael** | Dreams, OBE, angels | 2x/week |
@@ -105,7 +106,7 @@ Creative cost: ONCE.
 |------|---------|---------------|
 | **Spell Tutorial** | "How to Cast a Protection Spell" | Protection Spell Kit |
 | **Sigil Workshop** | "Create Your Own Sigil" | Sigil Creation Project |
-| **Grmoire Reading** | "The Key of Solomon, Read Slowly" | Grimoire Pages |
+| **Grimoire Reading** | "The Key of Solomon, Read Slowly" | Grimoire Pages |
 | **Dream Work** | "The Roman Dream Incubation" | Dream Journal |
 | **Tarot Deep-Dive** | "The Celtic Cross Explained" | Tarot Spread Project |
 | **Sleepy History** | "A Quiet History of Grimoires" | CD album |
@@ -120,27 +121,27 @@ Creative cost: ONCE.
 |-------|----------|
 | YouTube | "How to Cast a Protection Spell" tutorial |
 | Spotify | "Rituals Slowly Explained" album |
-| Etsy | Protection Spell Kit (£18.99) |
-| Digital | Sigil Creation Project (£6.99) |
-| Amazon | Protection Grimoire eBook (£3.99) |
+| Etsy | Protection Spell Kit ($18.99) |
+| Digital | Sigil Creation Project ($6.99) |
+| Amazon | Protection Grimoire eBook ($3.99) |
 
 ### Campaign 2: Dream Work
 | Layer | Products |
 |-------|----------|
 | YouTube | "The Roman Dream Incubation" tutorial |
 | Spotify | "The Dream Traditions" album |
-| Etsy | Dream Incubation Kit (£21.99) |
-| Digital | Dream Journal Project (£6.99) |
-| Amazon | Dream Work eBook (£3.99) |
+| Etsy | Dream Incubation Kit ($21.99) |
+| Digital | Dream Journal Project ($6.99) |
+| Amazon | Dream Work eBook ($3.99) |
 
 ### Campaign 3: Tarot
 | Layer | Products |
 |-------|----------|
 | YouTube | "The Celtic Cross Explained" tutorial |
 | Spotify | "Tarot After Midnight" album |
-| Etsy | Custom Tarot Card (£24.99) |
-| Digital | Tarot Spread Project (£8.99) |
-| Amazon | Tarot Guide eBook (£4.99) |
+| Etsy | Custom Tarot Card ($24.99) |
+| Digital | Tarot Spread Project ($8.99) |
+| Amazon | Tarot Guide eBook ($4.99) |
 
 ---
 
@@ -150,11 +151,11 @@ Same as OddHobb: super cheap, fairly priced, premium feel.
 
 | Tier | Price Range |
 |------|-----------|
-| Digital project | £4.99-9.99 |
-| Small object | £7.99-14.99 |
-| Spell kit | £16.99-21.99 |
-| Custom item | £24.99-39.99 |
-| CD | £9.99-14.99 |
+| Digital project | $4.99-9.99 |
+| Small object | $7.99-14.99 |
+| Spell kit | $16.99-21.99 |
+| Custom item | $24.99-39.99 |
+| CD | $9.99-14.99 |
 
 **Premium feel comes from:** Vault inclusion, quality packaging, brass seals, leather journals, celestial designs. Not inflated prices.
 
@@ -164,8 +165,8 @@ Same as OddHobb: super cheap, fairly priced, premium feel.
 
 | Supplier | Products | Cost |
 |----------|----------|------|
-| **Makr3D** | 3D printed objects, celestial displays | £1.29-7.60 |
-| **Prodigi** | Printed cards, altar cloths | £0.40-3 |
+| **Makr3D** | 3D printed objects, celestial displays | $1.29-7.60 |
+| **Prodigi** | Printed cards, altar cloths | $0.40-3 |
 | **Kunaki** | CDs | $2.00 |
 | **Alibaba** | Brass seals, leather journals, candles | Varies |
 | **Self-fulfilled** | Digital products, spell kits | $0 |
