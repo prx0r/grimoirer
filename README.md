@@ -1,8 +1,8 @@
-# Ochema — Esoteric Projects Brand
+# Ochemy
 
 > Domain: ochema.co
-> Spells, rituals, dream work, tarot, grimoires.
-> Same machine as OddHobb, esoteric twist.
+> Esoteric projects brand. Spells, rituals, dream work, tarot, grimoires.
+> 20% profit. 5% charity. Honest craft for your practice.
 
 ---
 
@@ -10,79 +10,93 @@
 
 **Ochema = the esoteric projects brand.**
 
-Like OddHobbies but for the occult. Instead of "build a cyberdeck," it's "cast a protection spell." Instead of hobby tools, it's ritual objects. Instead of sleepy content about watchmaking, it's sleepy content about grimoires and dream traditions.
+Like OddHobb but for the occult. Instead of "build a cyberdeck," it's "cast a protection spell." Instead of hobby tools, it's ritual objects. Instead of sleepy content about watchmaking, it's sleepy content about grimoires and dream traditions.
 
 **The tagline:** *Your practice, your way.*
 
 **The promise:** Every Ochema creation is yours to keep — physical and digital.
 
+**The pitch:** We're an occult store that shows you exactly what you're paying for. Every supplier named. Every cost visible. No mystical markup. 5% of every sale goes to charity. Just honest craft for your practice.
+
+---
+
+## Pricing Model (No Decimals)
+
+| Product | Price | Profit (20%) | Charity (5%) |
+|---------|-------|-------------|-------------|
+| Digital pack | $5 | $1 | $0.25 |
+| Starter kit | $25 | $5 | $1.25 |
+| Deluxe edition | $50 | $10 | $2.50 |
+| Collector edition | $100 | $20 | $5 |
+| Spell kit | $20 | $4 | $1 |
+| Tarot spread pack | $8 | $1.60 | $0.40 |
+
+---
+
+## Charity Program
+
+**Default:** One Tree Planted ($1 = 1 tree, Platinum GuideStar, 100% Charity Navigator)
+
+**Customer choice:**
+- One Tree Planted (tree planting)
+- NAMI (mental health)
+- The Trevor Project (LGBTQ+ youth)
+- SAFE Worldwide (wildlife, 100% to projects)
+- Rainforest Trust (100% to conservation)
+- Custom: Any verified 501(c)(3)
+
+**Transparency:** Monthly receipts published on website.
+
+**Etsy compliance:** Physical products only, clearly disclosed.
+
 ---
 
 ## Product Lines
 
-### Line 1: Spell Kits (Physical + Digital)
+### Line 1: Grimoire Packs (THE KILLER PRODUCT)
 
-| Product | Price | What's Included |
-|---------|-------|----------------|
-| Protection Spell Kit | $18.99 | Candle, sigil card, ritual guide, spell PDF |
-| Love Spell Kit | $18.99 | Rose candle, love sigil, ritual guide |
-| Abundance Spell Kit | $18.99 | Green candle, money sigil, ritual guide |
-| Cleansing Ritual Kit | $16.99 | Sage alternative, cleansing guide, spray recipe |
-| Dream Incubation Kit | $21.99 | Dream journal, incubation cards, guide |
+| Pack | Theme | Digital | Starter | Deluxe | Collector |
+|------|-------|---------|---------|--------|-----------|
+| Key of Solomon | Solomonic magic | $5 | $25 | $50 | $100 |
+| Lesser Key (Goetia) | Demonology | $5 | $25 | $50 | $100 |
+| Heptameron | Angelic magic | $5 | $25 | $50 | $100 |
+| Picatrix | Astrological magic | $5 | $30 | $60 | $120 |
+| Grand Grimoire | Pacts, Red Dragon | $5 | $25 | $50 | $100 |
 
-### Line 2: Digital Projects
+**Each pack includes:**
+- Digital: 50+ printable pages, sigil cards, ritual guides
+- Starter: Paperback grimoire + candle + oil + herbs + guide
+- Deluxe: Hardcover + talisman + wax seal + full kit
+- Collector: Limited edition (100 copies) + brass + certificate
 
-| Product | Price | What's Included |
-|---------|-------|----------------|
-| Sigil Creation Project | $6.99 | Sigil worksheet, examples, tutorial video |
-| Grimoire Page Pack | $7.99 | 50+ printable pages, templates |
-| Tarot Spread Project | $8.99 | 20 spreads, journal pages, guide |
-| Birth Chart Project | $9.99 | Chart template, interpretation guide |
-| Dream Journal Project | $6.99 | Journal pages, dream symbols guide |
+### Line 2: Spell Kits
 
-### Line 3: Custom Quality Items
+| Kit | Price | Contents |
+|-----|-------|----------|
+| Protection | $20 | Candle, sigil card, ritual guide |
+| Love | $20 | Rose candle, love sigil, guide |
+| Abundance | $20 | Green candle, money sigil, guide |
+| Cleansing | $20 | Sage alternative, cleansing guide |
+| Dream Incubation | $25 | Dream journal, incubation cards, guide |
 
-| Product | Price | What's Included |
-|---------|-------|----------------|
-| Engraved Leather Grimoire | $39.99 | Custom cover, 200 pages, engraving |
-| Custom Tarot Card | $24.99 | Personalized illustration, velvet pouch |
-| Wax Seal Kit | $24.99 | Brass seal, wax sticks, instruction card |
-| Celestial Display Piece | $18.99 | 3D-printed, LED option, custom plaque |
-| Dream Tablet | $14.99 | 3D-printed, engraved, display stand |
+### Line 3: Digital Projects
 
-### Line 4: Physical Media
+| Product | Price | Contents |
+|---------|-------|----------|
+| Sigil Creation Project | $5 | Sigil worksheet, examples, tutorial |
+| Tarot Spread Project | $8 | 20 spreads, journal pages, guide |
+| Birth Chart Project | $8 | Chart template, interpretation guide |
+| Dream Journal Project | $5 | Journal pages, dream symbols guide |
 
-| Product | Price | What's Included |
-|---------|-------|----------------|
-| CD: Grimoires After Midnight | $11.99 | 8 tracks, jewel case, liner notes |
-| CD: The Dream Traditions | $11.99 | 8 tracks, jewel case |
-| CD: Rituals Slowly Explained | $11.99 | 8 tracks, jewel case |
+### Line 4: Custom Quality Items
 
----
-
-## The Vault (Same as OddHobb)
-
-Every purchase includes:
-- Physical product
-- Downloadable digital asset (SVG, PDF, STL)
-- Perpetual personal-use licence
-- Saved in Ochema Vault
-- Reusable on future compatible products
-
-**The compounding effect:**
-```
-Buy: Protection sigil design
-  → save to Vault
-
-Later: Use same sigil on:
-  - Wax seal
-  - Engraved grimoire
-  - Altar cloth
-  - Dream tablet
-  - Celestial display
-
-Creative cost: ONCE.
-```
+| Product | Price | Supplier |
+|---------|-------|----------|
+| Engraved Leather Grimoire | $40 | Alibaba + laser engraving |
+| Custom Tarot Card | $25 | MakePlayingCards |
+| Wax Seal Kit | $25 | Stamprints |
+| Celestial Display Piece | $20 | Makr3D + LED |
+| Dream Tablet | $15 | Makr3D + engraving |
 
 ---
 
@@ -92,105 +106,98 @@ Creative cost: ONCE.
 
 | Channel | Content | Frequency |
 |---------|---------|-----------|
-| **Ochema** | Grimoire explainers, spell tutorials | 2x/week |
-| **Daimon Dreams** | Greek dream traditions | 2x/week |
-| **Magus Logs** | Historical diaries (Dee, etc.) | 2x/week |
+| **Ochema** | Grimoire explainers, spell tutorials | 3x/week |
+| **Daimon Dreams** | Greek dream traditions | 3x/week |
+| **Magus Logs** | Historical diaries (Dee, Kelley) | 2x/week |
 | **Astrael** | Dreams, OBE, angels | 2x/week |
-| **Tantric** | Tantric texts | 1x/week |
-| **Alchemical Secrets** | Alchemy explainers | 1x/week |
+| **Alchemical Secrets** | Alchemy explainers | 2x/week |
 | **Sufi Night** | Rumi, Sufi poetry | 1x/week |
 
-### Content Types
+### Content Standards
 
-| Type | Example | Product Tie-In |
-|------|---------|---------------|
-| **Spell Tutorial** | "How to Cast a Protection Spell" | Protection Spell Kit |
-| **Sigil Workshop** | "Create Your Own Sigil" | Sigil Creation Project |
-| **Grimoire Reading** | "The Key of Solomon, Read Slowly" | Grimoire Pages |
-| **Dream Work** | "The Roman Dream Incubation" | Dream Journal |
-| **Tarot Deep-Dive** | "The Celtic Cross Explained" | Tarot Spread Project |
-| **Sleepy History** | "A Quiet History of Grimoires" | CD album |
-| **Diary Reading** | "John Dee's Angelic Diaries" | Diary products |
+**We treat the occult the way a university treats literature.**
 
----
+| We Are | We Are Not |
+|--------|-----------|
+| Scholarly | Academic-sounding but wrong |
+| Precise | Vague and mystical |
+| Honest about sources | Claiming secrets nobody knows |
+| Respectful of traditions | Appropriating or mocking |
+| Clear about what's proven | Overpromising results |
 
-## Campaigns
+Every video includes: primary source citation, translation credit, historical context, scholarly debate, honest disclaimer.
 
-### Campaign 1: Protection Spells
-| Layer | Products |
-|-------|----------|
-| YouTube | "How to Cast a Protection Spell" tutorial |
-| Spotify | "Rituals Slowly Explained" album |
-| Etsy | Protection Spell Kit ($18.99) |
-| Digital | Sigil Creation Project ($6.99) |
-| Amazon | Protection Grimoire eBook ($3.99) |
-
-### Campaign 2: Dream Work
-| Layer | Products |
-|-------|----------|
-| YouTube | "The Roman Dream Incubation" tutorial |
-| Spotify | "The Dream Traditions" album |
-| Etsy | Dream Incubation Kit ($21.99) |
-| Digital | Dream Journal Project ($6.99) |
-| Amazon | Dream Work eBook ($3.99) |
-
-### Campaign 3: Tarot
-| Layer | Products |
-|-------|----------|
-| YouTube | "The Celtic Cross Explained" tutorial |
-| Spotify | "Tarot After Midnight" album |
-| Etsy | Custom Tarot Card ($24.99) |
-| Digital | Tarot Spread Project ($8.99) |
-| Amazon | Tarot Guide eBook ($4.99) |
-
----
-
-## Pricing Philosophy
-
-Same as OddHobb: super cheap, fairly priced, premium feel.
-
-| Tier | Price Range |
-|------|-----------|
-| Digital project | $4.99-9.99 |
-| Small object | $7.99-14.99 |
-| Spell kit | $16.99-21.99 |
-| Custom item | $24.99-39.99 |
-| CD | $9.99-14.99 |
-
-**Premium feel comes from:** Vault inclusion, quality packaging, brass seals, leather journals, celestial designs. Not inflated prices.
+**Product language:** "Ritual kit based on historical practices" not "spell kit that works."
 
 ---
 
 ## Suppliers
 
-| Supplier | Products | Cost |
-|----------|----------|------|
-| **Makr3D** | 3D printed objects, celestial displays | $1.29-7.60 |
-| **Prodigi** | Printed cards, altar cloths | $0.40-3 |
-| **Kunaki** | CDs | $2.00 |
-| **Alibaba** | Brass seals, leather journals, candles | Varies |
-| **Self-fulfilled** | Digital products, spell kits | $0 |
+| Category | Primary Supplier | Cost |
+|----------|-----------------|------|
+| **Tarot printing** | QinPrinting (200 MOQ) | $3-20/deck |
+| **Book printing** | IngramSpark + KDP | $3.50/copy |
+| **Wax seals** | Stamprints | $12-15/stamp |
+| **Spell supplies** | AromaG's Botanica + Mountain Rose | $3.40/kit |
+| **Engraving** | Stamprints / local | $5-15/item |
+| **3D printing** | Makr3D | $1.29-7.60/unit |
+| **Metal talismans** | TTTJewelry | $3-8/unit |
+| **Packaging** | Alibaba | $0.30-0.50 |
 
 ---
 
-## IP Guardrails
+## Radical Transparency
 
-| Don't | Do |
-|-------|-----|
-| Use "Wicca" (unless specifically Wiccan) | "Pagan" or "magick" |
-| Use trademarked occult symbols | Original sigil designs |
-| Claim "treats" or "cures" anything | "Supports" your practice |
-| Copy historical grimoire artwork | Original illustrations |
+Every product page shows:
+- Exact retail price
+- Exact supplier source
+- Exact material cost
+- Exact margin
+- Where each component comes from
+- Why it costs what it costs
+
+**Monero accepted** (5% discount for crypto — save on fees, share savings).
+
+---
+
+## Design Aesthetic
+
+- White paper texture + crosshatch pattern
+- Calligraphy headers (Cinzel Decorative)
+- Grid layout, each product in its own card
+- Gold accents on parchment background
+- Whole number pricing ($5, $25, $50, $100)
 
 ---
 
 ## Revenue Projection
 
-| Stream | Month 1 | Month 3 | Month 6 | Month 12 |
-|--------|---------|---------|---------|----------|
-| Etsy (physical) | $50 | $300 | $800 | $1,500 |
-| Etsy (digital) | $30 | $150 | $400 | $800 |
-| YouTube ads | $0 | $50 | $200 | $500 |
-| Spotify | $0 | $20 | $80 | $200 |
-| Amazon ebooks | $10 | $40 | $150 | $400 |
-| **Total** | **$90** | **$560** | **$1,630** | **$3,400** |
+| Month | Revenue | Charity |
+|-------|---------|---------|
+| 1 | $665 | $35 |
+| 3 | $2,020 | $80 |
+| 6 | $4,180 | $220 |
+| 12 | $8,290 | $410 |
+
+**$745 donated by month 12.**
+
+---
+
+## The Vault (Same as OddHobb)
+
+Every purchase includes:
+- Physical product
+- Downloadable digital asset
+- Perpetual personal-use licence
+- Saved in Ochema Vault
+- Reusable on future compatible products
+
+---
+
+## Repos
+
+| Repo | Content |
+|------|---------|
+| **grimoirer** (GitHub) | Full brand docs, campaigns, suppliers, pricing |
+| **suppliers** (GitHub) | Shared supplier directory |
+| **oddhobbies** (GitHub) | Sister brand, same machine |
