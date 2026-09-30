@@ -11,7 +11,7 @@
 
 ### We Never Sound Like
 - Gatekeeping ("true witches know...")
-- appropriative ("ancient sacred ritual")
+- Appropriative ("ancient sacred ritual")
 - Clinical ("evidence-based manifestation")
 - Cringe ("blessed be, beautiful soul")
 - Fake scarcity ("only 3 left! 🔥")
@@ -22,10 +22,9 @@
 `[Product] — [What Makes It Yours]`
 
 ### Examples
-- "Grimoire Starter Kit — Black Leather, Gold Sigil"
-- "Custom Natal Chart — Printed on Parchment"
-- "Lucid Dream Journal — Reality Check Prompts Inside"
-- "Sigil Pack — 20 Protection Sigils, Hand-Drawn"
+- "Protection Spell Kit — Your Custom Sigil"
+- "Engraved Grimoire — Your Name, Your Cover"
+- "Dream Journal — Your Incubation Practice"
 
 ### Avoid in Titles
 - "Wicca" (unless actually Wiccan-specific)
@@ -43,20 +42,19 @@
 | Blood Red | #8B1A1A | Accents, seals |
 | Gold | #C9A94E | Highlights, foil |
 | Deep Purple | #3D1F5C | Secondary accent |
-| Sage | #6B7F5E | Herbs, nature elements |
+| Sage | #6B7F5E | Herbs, nature |
 
 ### Typography
 - **Headings:** Cinzel (classic, engraved feel)
 - **Body:** Crimson Text (readable, old-book feel)
 - **Accents:** Homemade Apple (handwritten grimoire feel)
-- **Sigils:** Custom hand-drawn or AI-generated
 
 ### Photography Style
 - Dark, moody backgrounds (black velvet, dark wood)
 - Candlelight or warm tungsten
-- Props: candles, crystals, dried herbs, old keys, bones
+- Props: candles, crystals, dried herbs, old keys
 - Product lit to show engraving/detail
-- No white backgrounds (that's for normal stuff)
+- No white backgrounds
 
 ## Etsy Tags (max 13, max 20 chars)
 
@@ -74,38 +72,4 @@ witchcraft
 book of shadows
 ritual
 custom grimoire
-```
-
-## Listing Template
-
-### Title
-`[Product] — [Customization] | [Practice] | [Format]`
-
-### Example
-`Custom Grimoire — Engraved Leather Journal | Book of Shadows | Personalized`
-
-### Description
-```
-[1 sentence: what this is and who it's for]
-
-[2-3 sentences: what makes it custom/personalized]
-
-WHAT'S INCLUDED:
-• [item 1]
-• [item 2]
-• [item 3]
-
-CUSTOMIZATION:
-• [what they can personalize]
-• [options available]
-
-SPECIFICATIONS:
-• [material]
-• [size]
-• [production time]
-
-Personalized items ship within [X] days.
-Digital downloads available immediately.
-
-Made with intention. Each piece is crafted for your practice.
 ```
