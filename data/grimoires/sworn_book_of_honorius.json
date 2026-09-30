@@ -1,0 +1,208 @@
+{
+  "grimoire": {
+    "id": "sworn_book_of_honorius",
+    "title": "The Sworn Book of Honorius",
+    "subtitle": "Liber Juratus Honorii",
+    "author": "Honorius of Thebes",
+    "compiled": "13th century",
+    "translated_by": "Joseph Peterson (2016, Ibis Press)",
+    "source_url": "https://archive.org/details/sworn-book-of-honorius-liber-juratus-honorii-joseph-peterson",
+    "license": "public_domain_original_translation_available",
+    "language_original": "Latin",
+    "language_english": "English",
+    
+    "structure": {
+      "books": [
+        {
+          "id": "book_1",
+          "title": "Book I: Preparing the Seal of God and the Divine Vision",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The Prologue",
+              "summary": "Honorius's account of the conference of magicians",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_2",
+              "title": "The Oath",
+              "summary": "The oath taken by practitioners",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_3",
+              "title": "The Sigillum Dei Aemeth",
+              "summary": "The Seal of God — the central ritual object",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_4",
+              "title": "The Sevenfold Prayer",
+              "summary": "The prayer structure for the operation",
+              "content_length": "~3000 words"
+            },
+            {
+              "id": "ch_5",
+              "title": "The Divine Vision",
+              "summary": "How to achieve the divine vision through the Seal",
+              "content_length": "~4000 words"
+            },
+            {
+              "id": "ch_6",
+              "title": "The Book of Three Souls",
+              "summary": "The Liber Trium Animarum — prayers for the soul",
+              "content_length": "~5000 words"
+            }
+          ]
+        },
+        {
+          "id": "book_2",
+          "title": "Book II: Magical Operations",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "Catching Thieves",
+              "summary": "Ritual for finding stolen goods",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_2",
+              "title": "Finding Treasure",
+              "summary": "Ritual for locating treasure",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_3",
+              "title": "Healing",
+              "summary": "Ritual for healing the sick",
+              "content_length": "~2000 words"
+            },
+            {
+              "id": "ch_4",
+              "title": "Memory and Knowledge",
+              "summary": "How the Sworn Book's memory system works",
+              "content_length": "~4000 words"
+            }
+          ]
+        }
+      ]
+    },
+
+    "operations": [
+      {
+        "id": "op_sigillum_dei",
+        "name": "Creation of the Sigillum Dei Aemeth",
+        "category": "consecration",
+        "difficulty": "advanced",
+        "duration": "3-4 hours",
+        "components_required": [
+          {"item": "beeswax tablets (7)", "supplier": "mountainrose", "cost": 5},
+          {"item": "consecrated water", "supplier": "diy", "cost": 0},
+          {"item": "white candle", "supplier": "aromags", "cost": 0.50},
+          {"item": "purification prayer", "source": "book_1_ch_4", "cost": 0},
+          {"item": "seal design template", "source": "book_1_ch_3", "cost": 0}
+        ]
+      },
+      {
+        "id": "op_memory_system",
+        "name": "The Sworn Book Memory System",
+        "category": "devotion",
+        "difficulty": "master",
+        "duration": "Ongoing (the book itself takes memorization)",
+        "components_required": [
+          {"item": "the Sworn Book text", "source": "book_1", "cost": 0},
+          {"item": "seal of God", "source": "op_sigillum_dei", "cost": 0},
+          {"item": "quiet practice space", "supplier": "diy", "cost": 0},
+          {"item": "patience", "source": "diy", "cost": 0}
+        ]
+      }
+    ],
+
+    "components_catalog": [
+      {
+        "component": "beeswax_tablets",
+        "description": "Seven beeswax tablets for the Sigillum Dei",
+        "standard_size": "7x7cm each",
+        "supplier": "mountainrose",
+        "cost": 5.00,
+        "notes": "Used to construct the Seal of God"
+      },
+      {
+        "component": "seal_design",
+        "description": "The Sigillum Dei Aemeth design",
+        "source": "book_1_ch_3",
+        "formats": ["svg", "pdf"],
+        "supplier": "self_designed",
+        "cost": 0,
+        "notes": "One of the most complex seals in Western magic"
+      }
+    ],
+
+    "products_generated": [
+      {
+        "product_id": "sworn_book_digital",
+        "type": "digital",
+        "name": "Sworn Book of Honorius Digital Pack",
+        "price": 5,
+        "includes": [
+          "Full text (Peterson translation)",
+          "Sigillum Dei Aemeth SVG",
+          "Sevenfold prayer PDF",
+          "Seal construction guide",
+          "Memory system overview"
+        ],
+        "supplier": "self_fulfilled"
+      },
+      {
+        "product_id": "sworn_book_starter",
+        "type": "physical_kit",
+        "name": "Sworn Book Starter Kit",
+        "price": 25,
+        "includes": [
+          "Paperback grimoire (IngramSpark)",
+          "Beeswax tablets (Mountain Rose)",
+          "White candle (AromaG's)",
+          "Seal design card (Prodigi)",
+          "Prayer guide (Prodigi)",
+          "Cotton bag (Alibaba)"
+        ],
+        "supplier": "multi_dropship"
+      },
+      {
+        "product_id": "sworn_book_deluxe",
+        "type": "physical_kit",
+        "name": "Sworn Book Deluxe Edition",
+        "price": 50,
+        "includes": [
+          "Hardcover grimoire (IngramSpark)",
+          "Brass Sigillum medallion (TTTJewelry)",
+          "Wax seal kit (Stamprints)",
+          "Full beeswax set (Mountain Rose)",
+          "Seal construction poster (Prodigi)",
+          "Memory practice guide (Prodigi)"
+        ],
+        "supplier": "multi_dropship"
+      }
+    ],
+
+    "content_for_agents": {
+      "summary": "The Sworn Book of Honorius (Liber Juratus) is a 13th-century grimoire attributed to Honorius of Thebes. It is one of the oldest and most influential medieval grimoires. The text describes a conference of magicians who condensed all their knowledge into one volume. Central to the book is the Sigillum Dei Aemeth (Seal of God) and a system of sevenfold prayers. The book also contains a famous memory system — practitioners would memorize the entire text through ritual practice. John Dee used it as a source for the Sigillum Dei Aemeth.",
+      "key_concepts": [
+        "The Sigillum Dei Aemeth (Seal of God)",
+        "The sevenfold prayer structure",
+        "The memory system for memorizing the entire book",
+        "The conference of magicians",
+        "The oath of secrecy"
+      ],
+      "historical_context": "The Sworn Book was supposedly produced by a conference of medieval magicians who decided to condense all their magical knowledge into one volume. Owen Davis of the University of Hertfordshire lists it as one of the 'top ten grimoires.' The text influenced later works including Agrippa's Three Books of Occult Philosophy and John Dee's Enochian system.",
+      "modern_relevance": "The Sigillum Dei Aemeth remains one of the most powerful seals in Western ceremonial magic. The memory system influenced later mnemonics. The text is studied by historians of magic and practiced by ceremonial magicians.",
+      "related_grimoires": [
+        "key_of_solomon",
+        "lesser_key_of_solomon",
+        "heptameron",
+        "book_of_abramelin"
+      ],
+      "memory_system": "The Sworn Book is famous for its memory system. The practitioner would construct the Sigillum Dei Aemeth, then memorize the entire book through a ritual process. This was considered essential because the book had to be recalled from memory during operations. The system influenced later memory palaces and mnemonic techniques."
+    }
+  }
+}

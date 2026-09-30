@@ -1,0 +1,210 @@
+{
+  "grimoire": {
+    "id": "lesser_key_of_solomon",
+    "title": "The Lesser Key of Solomon",
+    "subtitle": "Lemegeton Clavicula Salomonis",
+    "author": "Attributed to King Solomon",
+    "compiled": "17th century compilation",
+    "translated_by": "S.L. Liddell MacGregor Mathers & Frederick Hockley",
+    "source_url": "https://www.gutenberg.org/ebooks/72679",
+    "license": "public_domain",
+    "language_original": "Latin, Hebrew",
+    "language_english": "English",
+    
+    "structure": {
+      "books": [
+        {
+          "id": "goetia",
+          "title": "Ars Goetia",
+          "summary": "The 72 demons and their seals",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The 72 Demons of the Goetia",
+              "summary": "Names, ranks, legions, and seals of each demon",
+              "content_length": "~15000 words",
+              "demons_count": 72
+            }
+          ]
+        },
+        {
+          "id": "theurgia_goetia",
+          "title": "Ars Theurgia-Goetia",
+          "summary": "Aeromancy — spirits of the air",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The Spirits of the Air",
+              "summary": "Aerial spirits and their operations",
+              "content_length": "~5000 words"
+            }
+          ]
+        },
+        {
+          "id": "paulina",
+          "title": "Ars Paulina",
+          "summary": "Planetary angels and hours",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The Angels of the Hours",
+              "summary": "Planetary hour system with angel names",
+              "content_length": "~4000 words"
+            }
+          ]
+        },
+        {
+          "id": "almadel",
+          "title": "Ars Almadel of Solomon",
+          "summary": "The Almadel and its angels",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The Almadel",
+              "summary": "Wax tablet construction and angel invocation",
+              "content_length": "~3000 words"
+            }
+          ]
+        },
+        {
+          "id": "ars_notoria",
+          "title": "Ars Notoria",
+          "summary": "Memory and knowledge through prayer",
+          "chapters": [
+            {
+              "id": "ch_1",
+              "title": "The Notory Prayers",
+              "summary": "Prayers for memory, eloquence, and knowledge",
+              "content_length": "~5000 words"
+            }
+          ]
+        }
+      ]
+    },
+
+    "operations": [
+      {
+        "id": "op_goetia_invocation",
+        "name": "Invocation of the 72 Demons",
+        "category": "evocation",
+        "difficulty": "advanced",
+        "duration": "2-3 hours per demon",
+        "components_required": [
+          {"item": "magic circle design", "source": "goetia_ch1", "cost": 0},
+          {"item": "brass vessel", "supplier": "alibaba", "cost": 3},
+          {"item": "sacred sword", "supplier": "alibaba", "cost": 5},
+          {"item": "appropriate incense", "supplier": "mountainrose", "cost": 2},
+          {"item": "purification robes", "supplier": "diy", "cost": 0}
+        ]
+      },
+      {
+        "id": "op_almadel",
+        "name": "Construction of the Almadel",
+        "category": "ritual",
+        "difficulty": "intermediate",
+        "duration": "1-2 hours",
+        "components_required": [
+          {"item": "beeswax tablets", "supplier": "mountainrose", "cost": 3},
+          {"item": "perfume oil", "supplier": "aromags", "cost": 2},
+          {"item": "candle", "supplier": "aromags", "cost": 0.50}
+        ]
+      },
+      {
+        "id": "op_notoria_prayer",
+        "name": "The Notory Prayers for Memory",
+        "category": "devotion",
+        "difficulty": "beginner",
+        "duration": "15-30 minutes daily",
+        "components_required": [
+          {"item": "prayer text", "source": "ars_notoria_ch1", "cost": 0},
+          {"item": "quiet space", "supplier": "diy", "cost": 0}
+        ]
+      }
+    ],
+
+    "components_catalog": [
+      {
+        "component": "beeswax_tablets",
+        "description": "Beeswax tablets for the Almadel",
+        "standard_size": "7x7cm each, 4 tablets",
+        "supplier": "mountainrose",
+        "cost": 3.00,
+        "alt_suppliers": ["candlescience", "alibaba"]
+      },
+      {
+        "component": "perfume_oil",
+        "description": "Perfume for consecrating the Almadel",
+        "standard_size": "5ml",
+        "supplier": "aromags",
+        "cost": 2.00,
+        "notes": "Traditionally rose, saffron, or benzoin"
+      }
+    ],
+
+    "products_generated": [
+      {
+        "product_id": "lesser_key_digital",
+        "type": "digital",
+        "name": "Lesser Key of Solomon Digital Pack",
+        "price": 5,
+        "includes": [
+          "Full text (public domain)",
+          "72 demon seal SVGs",
+          "Almadel construction guide",
+          "Planetary hour calculator",
+          "Notory prayers PDF"
+        ],
+        "supplier": "self_fulfilled"
+      },
+      {
+        "product_id": "lesser_key_starter",
+        "type": "physical_kit",
+        "name": "Lesser Key Starter Kit",
+        "price": 25,
+        "includes": [
+          "Paperback grimoire (IngramSpark)",
+          "Black chime candle (AromaG's)",
+          "Frankincense incense (Mountain Rose)",
+          "Demon seal card (Prodigi)",
+          "Almadel guide (Prodigi)",
+          "Cotton bag (Alibaba)"
+        ],
+        "supplier": "multi_dropship"
+      },
+      {
+        "product_id": "lesser_key_deluxe",
+        "type": "physical_kit",
+        "name": "Lesser Key Deluxe Edition",
+        "price": 50,
+        "includes": [
+          "Hardcover grimoire (IngramSpark)",
+          "Brass demon medallion (TTTJewelry)",
+          "Wax seal kit (Stamprints)",
+          "Full Almadel set (Mountain Rose + AromaG's)",
+          "72 demon seal cards (Prodigi)",
+          "Planetary hour poster (Prodigi)"
+        ],
+        "supplier": "multi_dropship"
+      }
+    ],
+
+    "content_for_agents": {
+      "summary": "The Lesser Key of Solomon (Lemegeton) is a 17th-century compilation attributed to King Solomon. It contains five books: the Ars Goetia (72 demons), Ars Theurgia-Goetia (aerial spirits), Ars Paulina (planetary angels), Ars Almadel (wax tablet angels), and Ars Notoria (prayers for memory and knowledge). Mathers' 1904 translation remains the standard English version.",
+      "key_concepts": [
+        "The 72 demons of the Goetia with their seals",
+        "Planetary hour system",
+        "The Almadel as a wax tablet ritual tool",
+        "Ars Notoria prayers for memory and knowledge",
+        "The hierarchy of spirits under the 72"
+      ],
+      "historical_context": "The Lemegeton is a 17th-century compilation that drew from earlier sources including the Pseudomonarchia Daemonum and Agrippa's Three Books of Occult Philosophy. It became the most influential grimoire of the ceremonial magic tradition.",
+      "modern_relevance": "The Goetia's 72 demons are the most recognized set of spirits in Western occultism. The Almadel system is still practiced by ceremonial magicians. The Ars Notoria's memory prayers influenced later memory techniques.",
+      "related_grimoires": [
+        "key_of_solomon",
+        "book_of_abramelin",
+        "heptameron",
+        "sworn_book_of_honorius"
+      ]
+    }
+  }
+}
