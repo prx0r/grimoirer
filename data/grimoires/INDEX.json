@@ -512,7 +512,9 @@
             "bruno",
             "sanskrit_trika",
             "notoria_grammar"
-          ]
+          ],
+          "memory_dreaming_family": true,
+          "memory_options": "data/products/memory-dreaming-options.json"
         }
       },
       "category_to_grimoires": {
@@ -562,6 +564,20 @@
       "stonedoorway": "imaginal runtime · audio · Bruno memory · phoneme worlds",
       "bridge_grimoire": "notoria",
       "sanskrit_path": "grammar first (trivium) after Grade 0 matrika"
+    },
+    "categories": {
+      "memory_dreaming": {
+        "note": "Art of memory · faculty practice · dreaming/night — first-class product family beside grimoires",
+        "options_file": "data/products/memory-dreaming-options.json",
+        "drafted_pack": "data/practice/bruno/bruno-wheels-product.json",
+        "example_products": [
+          "bruno_memory_wheels",
+          "lucid_reality_check_cards",
+          "night_stack_ticket_book",
+          "sanskrit_sound_body_map",
+          "grammar_operator_wheel"
+        ]
+      }
     }
   },
   "merged_with_notoria_pack": "2026-10-04"
