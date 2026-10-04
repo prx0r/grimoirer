@@ -1,0 +1,71 @@
+{
+  "id": "notoria_digital_assets_v0",
+  "grimoire": "notoria",
+  "policy": "PD + original sheets only. No copyrighted modern editions.",
+  "assets": [
+    {
+      "id": "pd_turner_reader",
+      "kind": "link",
+      "url": "https://grimoirer.com/read/notoria",
+      "note": "Turner 1657 English via Peterson EA"
+    },
+    {
+      "id": "pd_witnesses",
+      "kind": "link",
+      "url": "https://grimoirer.com/notoria",
+      "note": "Manuscript witness cards + PD plates"
+    },
+    {
+      "id": "pd_notoria_graph",
+      "kind": "link",
+      "url": "https://grimoirer.com/graph/notoria"
+    },
+    {
+      "id": "cheatsheet_session",
+      "kind": "download",
+      "path": "practice/notoria/cheatsheet-session.json",
+      "render": "cheatsheet-session.md"
+    },
+    {
+      "id": "cheatsheet_cards",
+      "kind": "download",
+      "path": "practice/notoria/cheatsheet-cards.json",
+      "render": "cheatsheet-cards.md"
+    },
+    {
+      "id": "non_negotiables",
+      "kind": "download",
+      "path": "practice/notoria/non-negotiables.json",
+      "render": "non-negotiables.md"
+    },
+    {
+      "id": "calendar_schedule",
+      "kind": "download",
+      "path": "practice/notoria/calendar-schedule-v0.json",
+      "render": "calendar-schedule.md"
+    },
+    {
+      "id": "bnf_lat_9336",
+      "kind": "external_link",
+      "url": "https://gallica.bnf.fr/ark:/12148/btv1b525108283",
+      "note": "Version B manuscript (Gallica) \u2014 browse, don't dump"
+    },
+    {
+      "id": "stonedoorway_preset",
+      "kind": "cross_link",
+      "url": "https://stonedoorway.com/app/",
+      "note": "Load preset notoria-grammar-study \u00b7 kernel notoria-grammar"
+    }
+  ],
+  "buy_pointer_only": [
+    "Skinner Ars Notoria Vol.1\u20132 (Golden Hoard)",
+    "Castle Ars Notoria (Inner Traditions 2023)",
+    "Veronese critical Latin (SISMEL)"
+  ],
+  "cross_links": {
+    "ochema_base": "http://127.0.0.1:8811/",
+    "ochema_snapshot": "ochemapp/data/live/snapshot.json",
+    "stoneworday": "https://stonedoorway.com/app/",
+    "preset": "notoria-grammar-study"
+  }
+}

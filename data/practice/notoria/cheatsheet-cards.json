@@ -1,0 +1,67 @@
+{
+  "id": "notoria_cheatsheet_cards_v0",
+  "cards": [
+    {
+      "id": "card_faculties",
+      "title": "The 4 Generals",
+      "body": [
+        "MEMORY — vocab, names, tables, script",
+        "UNDERSTANDING — structure, why it works",
+        "ELOQUENCE — speak, write, explain",
+        "PERSEVERANCE — long projects, exams"
+      ]
+    },
+    {
+      "id": "card_arts",
+      "title": "7 Liberal Arts (one at a time)",
+      "body": [
+        "TRIVIUM month-1 track: grammar → logic/dialectic → rhetoric",
+        "QUADRIVIM month-2 track: arithmetic → music → geometry → astronomy",
+        "Philosophy specials rule over the arts"
+      ]
+    },
+    {
+      "id": "card_sanskrit_path",
+      "title": "Sanskrit / Tantraloka via Notoria",
+      "body": [
+        "YES — grammar first",
+        "Grade 0: matrika phonemes + loci (Stonedoorway)",
+        "Daily shell: Notoria grammar session",
+        "Machine: sanskrithelp Pāṇini zones",
+        "Later: Śiva Sūtras → VB → Tantraloka"
+      ]
+    },
+    {
+      "id": "card_tea",
+      "title": "Tea?",
+      "body": [
+        "NOT required",
+        "Version B material formula only",
+        "Substitute: pure water or skip",
+        "Load-bearing: faculty + nota + study + log"
+      ]
+    },
+    {
+      "id": "card_bruno",
+      "title": "Notoria × Bruno memory",
+      "body": [
+        "Nota on place = LOCUS + IMAGO",
+        "Faculty = hub (memory/intellect/eloquence)",
+        "Grammar room = Pāṇini machine",
+        "Sound hall = matrika rows",
+        "Contractio = fuse form+sound+colour+locus"
+      ]
+    },
+    {
+      "id": "card_calendar",
+      "title": "Calendar layers",
+      "body": [
+        "Min: fixed weekly slots",
+        "Notoria: moon days 4/8/12 if tracking",
+        "Version B: lunar months + Friday near new moon opening",
+        "Optional: Mercury hour for study arts",
+        "Astro engine: ochemapp calendar.ts"
+      ]
+    }
+  ]
+}

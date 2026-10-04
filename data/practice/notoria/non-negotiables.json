@@ -1,0 +1,66 @@
+{
+  "id": "notoria_non_negotiables_v0",
+  "grimoire": "notoria",
+  "label": "Non-negotiables (practice integrity)",
+  "load_bearing": [
+    {
+      "id": "one_art",
+      "rule": "One liberal art per experiment / block",
+      "why": "Flores Aurei §68; Skinner Version B practice guide"
+    },
+    {
+      "id": "faculty_before_special",
+      "rule": "General faculty first (memory/understanding/eloquence/perseverance)",
+      "why": "Notoria structure: generals strengthen the mind that runs the art"
+    },
+    {
+      "id": "nota_one_object",
+      "rule": "Contemplate ONE nota / visual object — not a wall of notes",
+      "why": "Inspection is the memory technique"
+    },
+    {
+      "id": "immediate_study",
+      "rule": "Study the art immediately after the rite",
+      "why": "Prayer supports learning; it does not replace it"
+    },
+    {
+      "id": "log_one_line",
+      "rule": "Log what stuck / what scattered before leaving",
+      "why": "Closes the loop; prevents theatre"
+    },
+    {
+      "id": "stop_available",
+      "rule": "Stop / return always available in any linked shell",
+      "why": "Stonedoorway safety invariant"
+    }
+  ],
+  "historical_optional": [
+    {
+      "id": "discipline_shell",
+      "rule": "Historical: chastity + avoid mortal sin during work",
+      "modern_ok": "clear head · no intoxicants for the sitting · good faith"
+    },
+    {
+      "id": "penitence_window",
+      "rule": "~15 days confession/fast/alms as able",
+      "soft_clause": "good will counts if full penitence not possible"
+    },
+    {
+      "id": "tea_formula",
+      "rule": "Version B Phase 2: saffron-rosewater / angel-name water",
+      "required": false,
+      "substitute": "pure water or skip; Bonitatem optional"
+    },
+    {
+      "id": "dream_gate",
+      "rule": "Historical Version B: angel dream permission before month 1",
+      "modern_treat": "optional narrative layer — not a gate for study practice"
+    }
+  ],
+  "never_claim": [
+    "guaranteed rapid mastery",
+    "medical outcomes",
+    "that tea is required",
+    "that modern copyrighted prayers can be redistributed"
+  ]
+}

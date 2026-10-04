@@ -1,0 +1,64 @@
+{
+  "id": "notoria_live_links_v0",
+  "ochema_base": {
+    "url": "https://ochema.co",
+    "workers_dev": "https://ochema-base.tradesprior.workers.dev",
+    "role": "parent personal app \u2014 birth chart \u00b7 current sky \u00b7 ritual timing \u00b7 diary",
+    "profile": "Thomas Prior \u00b7 1999-05-16 14:37 Ascot",
+    "snapshot": "workers/ochema-base/public/data/snapshot.json",
+    "rituals": "https://ochema.co/api/rituals",
+    "local": "http://127.0.0.1:8811/"
+  },
+  "flow": [
+    "1. Read grimoire on Grimoirer (/read/notoria)",
+    "2. Get faculty + timing from Ochema (sky / daimon / planetary hours / power days)",
+    "3. Download cheatsheets from Grimoirer downloads/notoria/",
+    "4. Run imaginal session on Stonedoorway (notoria-grammar-study)",
+    "5. Log one line in Ochema diary"
+  ],
+  "stoneworday": {
+    "preset": "notoria-grammar-study",
+    "kernel": "notoria-grammar",
+    "url": "https://stonedoorway.com/app/"
+  },
+  "stonewordway": {
+    "preset": "notoria-grammar-study",
+    "kernel": "notoria-grammar",
+    "url": "https://stonewordway.com/app/"
+  },
+  "re_rendering_atlas": {
+    "url": "https://re-rendering-atlas.tradesprior.workers.dev",
+    "status": "LIVE on Cloudflare (worker re-rendering-atlas)",
+    "role": "Path-of-rerendering atlas \u00b7 observatory \u00b7 chat \u00b7 essays \u00b7 journal \u00b7 spells",
+    "reuse": [
+      "Observatory UI (elements \u00b7 rituals \u00b7 gateway tapes Focus 10 \u00b7 meditation)",
+      "/api/astrology/today (POST birth data \u2192 chart + signals)",
+      "/api/graph (phases / layers)",
+      "D1 atlas-db",
+      "Hermes plugins atlas-astrology (tools wrappers)"
+    ],
+    "apis_verified": {
+      "POST /api/astrology/today": "works with Thomas Prior 1999-05-16 14:37 Ascot",
+      "GET /api/graph": "200 phases JSON",
+      "GET /api/astrology/graph?type=layers": "200 layers",
+      "GET /api/astrology/snapshot": "needs user_id",
+      "POST /api/chat": "routes via opencode session header",
+      "GET /api/journal": "needs x-client-id"
+    },
+    "local_source": [
+      "ochemapp/app/routes/observatory/*",
+      "projects/.meta/misc/companion-app-engine/src/app/observatory",
+      "workengestation/process/hermes/plugins/atlas-astrology",
+      "ochemapp/engine/*"
+    ],
+    "maps_to": {
+      "ochema": "ME layer \u2014 when / faculty / diary",
+      "grimoirer": "ritual assets + notae",
+      "stonewordway": "Focus 10 / Gateway / imaginal runtime"
+    }
+  },
+  "castle_ars_brevis": {
+    "blog": "https://www.matthiascastle.com/post/ars-brevis-the-contested-identities-of-the-figures-for-magical-experiments",
+    "notes": "grimoirer/data/practice/notoria/ars-brevis-notes.json"
+  }
+}

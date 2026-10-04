@@ -1,0 +1,105 @@
+{
+  "id": "notoria_grammar_4week_v0",
+  "title": "Notoria Grammar — 4-week schedule (Sanskrit path)",
+  "subject": "sanskrit",
+  "art": "grammar",
+  "cadence": "3x/week min",
+  "session_min": 25,
+  "weeks": [
+    {
+      "week": 1,
+      "focus": "Setup + first generals",
+      "sessions": [
+        {
+          "day": "Mon",
+          "nota": "Devanagari / phoneme grid",
+          "study": "Grade 0 row 1 (ka–ṅa)"
+        },
+        {
+          "day": "Wed",
+          "nota": "same grid",
+          "study": "row 1 recall without chart"
+        },
+        {
+          "day": "Fri",
+          "nota": "matrika color map (PEDAGOGICAL)",
+          "study": "row 2 + green-core pause"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "focus": "Faculty fluency",
+      "sessions": [
+        {
+          "day": "Mon",
+          "nota": "one sutra fragment",
+          "study": "pronounce + feel locus"
+        },
+        {
+          "day": "Wed",
+          "nota": "sandhi gate sketch",
+          "study": "one sandhi pair"
+        },
+        {
+          "day": "Fri",
+          "nota": "grammar nota PD plate",
+          "study": "reconstruct ka→ṅa from memory"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "focus": "Rhythm + planetary optional",
+      "sessions": [
+        {
+          "day": "Mon",
+          "nota": "pratyahara card",
+          "study": "expand 'ac' or 'hal'"
+        },
+        {
+          "day": "Wed",
+          "nota": "phoneme tower",
+          "study": "one contrast drill"
+        },
+        {
+          "day": "Fri",
+          "nota": "longer inspection",
+          "study": "25–35 min block"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "focus": "Evaluate",
+      "sessions": [
+        {
+          "day": "Mon",
+          "nota": "weakest locus",
+          "study": "attack that only"
+        },
+        {
+          "day": "Wed",
+          "nota": "strongest locus",
+          "study": "teach-back one rule"
+        },
+        {
+          "day": "Fri",
+          "nota": "any",
+          "study": "weekly log review + next block decision"
+        }
+      ]
+    }
+  ],
+  "exit_rule": "After 4 weeks: continue same cadence OR change one variable — not all three.",
+  "links": {
+    "grimoirer_read": "https://grimoirer.com/read/notoria",
+    "grimoirer_notoria": "https://grimoirer.com/notoria",
+    "stonedoorway_app": "https://stonedoorway.com/app/",
+    "stoned_preset": "notoria-grammar-study",
+    "astro_engine": "ochemapp/graph/calendar.ts",
+    "planet_affinity": {
+      "grammar": "mercury"
+    }
+  }
+}

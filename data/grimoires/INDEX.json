@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "generated": "2026-09-30",
-  "description": "Ochema grimoire knowledge graph \u2014 machine-readable content for agents and applications",
+  "description": "Ochema grimoire knowledge graph — machine-readable content for agents and applications",
   "index": {
     "grimoires": [
       {
@@ -104,6 +104,27 @@
         ],
         "youtube_channel": "Ochema",
         "popularity_rank": 4
+      },
+      {
+        "id": "notoria",
+        "file": "notoria.json",
+        "title": "Ars Notoria",
+        "era": "13th–14th c. / modern practice method",
+        "difficulty": "intermediate",
+        "categories": [
+          "liberal_arts",
+          "memory",
+          "notae",
+          "study_method",
+          "grammar_first"
+        ],
+        "products": [
+          "notoria_digital",
+          "notoria_cheatsheet_pack",
+          "notoria_practice_starter"
+        ],
+        "youtube_channel": "Ochema",
+        "popularity_rank": 5
       }
     ],
     "suppliers": {
@@ -215,6 +236,20 @@
           "price": 5,
           "supplier": "self_fulfilled",
           "instant_delivery": true
+        },
+        {
+          "id": "notoria_digital",
+          "grimoire": "notoria",
+          "price": 5,
+          "supplier": "self_fulfilled",
+          "instant_delivery": true
+        },
+        {
+          "id": "notoria_cheatsheet_pack",
+          "grimoire": "notoria",
+          "price": 5,
+          "supplier": "self_fulfilled",
+          "instant_delivery": true
         }
       ],
       "starter_kits": [
@@ -257,6 +292,19 @@
             "angel_seal",
             "hour_guide",
             "bag"
+          ],
+          "multi_supplier": true
+        },
+        {
+          "id": "notoria_practice_starter",
+          "grimoire": "notoria",
+          "price": 25,
+          "components": [
+            "printed_cheatsheet",
+            "study_timer_card",
+            "nota_plate_print_pd",
+            "log_pages",
+            "nonnegotiables_card"
           ],
           "multi_supplier": true
         }
@@ -332,6 +380,11 @@
           "sworn_book_digital",
           "sworn_book_starter",
           "sworn_book_deluxe"
+        ],
+        "notoria": [
+          "notoria_digital",
+          "notoria_cheatsheet_pack",
+          "notoria_practice_starter"
         ]
       },
       "product_to_suppliers": {
@@ -355,6 +408,10 @@
           "mountainrose",
           "prodigi",
           "alibaba"
+        ],
+        "notoria_practice_starter": [
+          "prodigi",
+          "ingramspark"
         ]
       },
       "grimoire_relationships": {
@@ -418,6 +475,22 @@
             "memory_system",
             "solomonic"
           ]
+        },
+        "notoria": {
+          "influences": [],
+          "influenced_by": [],
+          "themes": [
+            "liberal_arts",
+            "memory",
+            "notae",
+            "study_method"
+          ],
+          "ecosystem_bridge": [
+            "stonedoorway",
+            "bruno",
+            "sanskrit_trika",
+            "notoria_grammar"
+          ]
         }
       },
       "category_to_grimoires": {
@@ -444,6 +517,15 @@
         "evocation": [
           "book_of_abramelin",
           "heptameron"
+        ],
+        "liberal_arts": [
+          "notoria"
+        ],
+        "memory": [
+          "notoria"
+        ],
+        "study_method": [
+          "notoria"
         ]
       }
     },
@@ -452,6 +534,13 @@
       "explain_operation": "The {operation} from {grimoire} requires {components}. This is a {difficulty} operation that typically takes {duration}. The best time to perform it is during {planetary_hour}.",
       "compare_grimoires": "Both {grimoire1} and {grimoire2} deal with {shared_theme}, but {grimoire1} focuses on {focus1} while {grimoire2} emphasizes {focus2}.",
       "suggest_products": "For your interest in {topic}, I'd recommend the {product} at ${price}. It includes {contents}."
+    },
+    "ecosystem": {
+      "grimoirer": "read · assets · cheatsheets · calendar · packs",
+      "stonedoorway": "imaginal runtime · audio · Bruno memory · phoneme worlds",
+      "bridge_grimoire": "notoria",
+      "sanskrit_path": "grammar first (trivium) after Grade 0 matrika"
     }
-  }
+  },
+  "merged_with_notoria_pack": "2026-10-04"
 }

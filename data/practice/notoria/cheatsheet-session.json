@@ -1,0 +1,63 @@
+{
+  "id": "notoria_cheatsheet_session_v0",
+  "title": "Notoria Session Cheatsheet",
+  "duration_min": 25,
+  "art": "grammar",
+  "subject_default": "sanskrit",
+  "steps": [
+    {
+      "n": 1,
+      "t_sec": 60,
+      "label": "Integrity + faculty",
+      "do": "Choose faculty. One art only. Phone away. Optional light discipline.",
+      "skip_if": "already clean from prior sitting"
+    },
+    {
+      "n": 2,
+      "t_sec": 90,
+      "label": "General",
+      "do": "Silent intent or short recitation for faculty. Optional Alpha et Omega / Helyscemath / Theos Megale."
+    },
+    {
+      "n": 3,
+      "t_sec": 30,
+      "label": "Material beat (optional)",
+      "do": "Pure water sip + Bonitatem ×4 — OR skip. Tea not required."
+    },
+    {
+      "n": 4,
+      "t_sec": 120,
+      "label": "Nota inspection",
+      "do": "Open ONE grammar visual: phoneme grid · sandhi gate · one sūtra · PD nota plate."
+    },
+    {
+      "n": 5,
+      "t_sec": 60,
+      "label": "Special",
+      "do": "Philosophy specials first if full Version B; then grammar special / silent intent."
+    },
+    {
+      "n": 6,
+      "t_sec": 1200,
+      "label": "Immediate study",
+      "do": "sanskrithelp or your Sanskrit material — one drill only."
+    },
+    {
+      "n": 7,
+      "t_sec": 60,
+      "label": "Absorption",
+      "do": "Silence. What stuck without re-reading."
+    },
+    {
+      "n": 8,
+      "t_sec": 60,
+      "label": "Log",
+      "do": "One line: faculty · nota · drill · stuck/scattered."
+    }
+  ],
+  "stonedoorway_handoff": {
+    "preset": "notoria-grammar-study",
+    "kernel_world": "notoria-grammar",
+    "bruno_note": "map nota → LOCUS; faculty → hub; log → palace locus"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "notoria_ars_brevis_notes_v0",
+  "grimoire": "notoria",
+  "sub_text": "Ars Brevis",
+  "rights": {
+    "policy": "Link + original practice notes only. Do not copy Castle blog or book text.",
+    "castle_blog": "https://www.matthiascastle.com/post/ars-brevis-the-contested-identities-of-the-figures-for-magical-experiments",
+    "castle_book": "https://www.innertraditions.com/books/ars-notoria-the-notory-art-of-solomon",
+    "pd_turner": "https://grimoirer.com/read/notoria"
+  },
+  "summary": {
+    "what": "Mid-14th-c. magical treatise in the Ars Notoria tradition; composite layer inside Agrippa Opera Omnia / Turner 1657 alongside Version B Notoria.",
+    "figures_count": 4,
+    "contested": true,
+    "note": "Three of four figure identities are contested in the manuscript tradition. Castle uses descriptive working titles."
+  },
+  "figures": [
+    {
+      "working_title": "Figure of memory",
+      "castle_descriptive": "AGLA figure (annulus + four quadrants)",
+      "experiment": "memory",
+      "status": "identity contested in MS tradition",
+      "practice_hooks": [
+        "consecration sequence over multiple days (historical)",
+        "new-moon timing (historical Version B family)",
+        "sleep incubation with figure nearby (historical)",
+        "study immediately after \u2014 Notoria core loop still applies"
+      ],
+      "stoneworday_link": "Bruno LOCUS for mnemonic install"
+    },
+    {
+      "working_title": "Figure of intellect",
+      "castle_descriptive": "Phos Megalos figure (annulus built from prayer language)",
+      "experiment": "intellect / understanding",
+      "status": "identity contested",
+      "practice_hooks": [
+        "use as focus object during understanding general",
+        "pair with grammar special if Sanskrit path"
+      ],
+      "stoneworday_link": "understanding faculty \u00b7 P\u0101\u1e47ini machine room"
+    },
+    {
+      "working_title": "Figure of the secrets of God",
+      "castle_descriptive": "tau-cross style figure (tau + alpha/omega)",
+      "experiment": "divine secrets / higher knowing (historical framing)",
+      "status": "identity contested",
+      "practice_hooks": [
+        "optional contemplative focus \u2014 label as historical figure, not doctrine"
+      ],
+      "stoneworday_link": "optional depth \u2014 not day-one"
+    },
+    {
+      "working_title": "Secrets of Master Albert, bishop of Regensburg",
+      "castle_descriptive": "named figure (not contested in same way)",
+      "experiment": "secrets / arts (historical)",
+      "status": "named in Sloane 513 family",
+      "practice_hooks": [
+        "use only if working the full Ars Brevis experiment set"
+      ],
+      "stoneworday_link": "optional"
+    }
+  ],
+  "manuscripts_flagged_by_castle": [
+    "Erfurt Amplonianum Octavo 79 (c.1350)",
+    "Vienna \u00d6NB Scot.-Vindobonensis 140 (1377)",
+    "BL Sloane 513 (15th c.)",
+    "BnF Latin 4161 (16th c.)",
+    "BPH M 242 (17th c.)",
+    "Agrippa Opera Omnia / Turner 1657 composite"
+  ],
+  "practice_implication": {
+    "for_our_stack": "Treat Ars Brevis figures as optional notae extensions of Notoria, not a second religion.",
+    "tea_required": false,
+    "load_bearing": "faculty \u00b7 one nota \u00b7 immediate study \u00b7 log \u2014 same as core Notoria shell",
+    "when_to_add": "After 4-week Notoria grammar track is stable"
+  },
+  "ecosystem": {
+    "ochema": "https://ochema.co (timing + faculty)",
+    "grimoirer_read": "https://grimoirer.com/read/notoria",
+    "stoneworday": "https://stonewordway.com/app/",
+    "castle_blog": "https://www.matthiascastle.com/post/ars-brevis-the-contested-identities-of-the-figures-for-magical-experiments"
+  }
+}

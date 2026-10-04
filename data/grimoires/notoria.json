@@ -1,0 +1,186 @@
+{
+  "id": "notoria",
+  "title": "Ars Notoria",
+  "subtitle": "The Notory Art — rapid learning through prayer, notae, and study",
+  "era": "13th–14th c. (Versions A/B); practice method modernized in 20th–21st c.",
+  "difficulty": "intermediate",
+  "language_primary": "Latin (PD English: Turner 1657)",
+  "tradition": [
+    "solomonic",
+    "learned_magic",
+    "art_of_memory",
+    "liberal_arts"
+  ],
+  "categories": [
+    "liberal_arts",
+    "memory",
+    "understanding",
+    "eloquence",
+    "notae",
+    "angel_magic",
+    "study_method",
+    "grammar_first"
+  ],
+  "products": [
+    "notoria_digital",
+    "notoria_cheatsheet_pack",
+    "notoria_practice_starter"
+  ],
+  "youtube_channel": "Ochema",
+  "popularity_rank": 4,
+  "ecosystem_role": {
+    "summary": "Ars Notoria is the bridge grimoire: Grimoirer owns read/assets/calendar; Stonedoorway owns imaginal runtime (journey, audio, Bruno memory, phoneme worlds).",
+    "grimoirer_owns": [
+      "PD text reading",
+      "digital asset downloads (PD + original cheatsheets)",
+      "non-negotiables + ritual cheatsheets",
+      "calendar / planetary-hour schedule hooks",
+      "product packs"
+    ],
+    "stonedoorway_owns": [
+      "audio beds / Journey",
+      "Bruno loci + memory palace ops",
+      "matrika phoneme worlds",
+      "notoria-grammar kernel world + protocol",
+      "night stack (Routine X)"
+    ],
+    "bridge_ids": {
+      "stoned_preset": "notoria-grammar-study",
+      "stoned_kernel_world": "notoria-grammar",
+      "stoned_protocol": "notoria-grammar-session-v0.1",
+      "bruno_hubs": [
+        "memory",
+        "grammar_room",
+        "sound_hall",
+        "method_of_places"
+      ],
+      "sanskrit_path": "grammar special → matrika → Pāṇini → Tantraloka"
+    }
+  },
+  "rights": {
+    "tier_a_public_domain": [
+      "Turner 1657 English (Peterson / Esoteric Archives)",
+      "PD manuscript plates (Yale Mellon MS 1, Clm 276 samples, etc.)",
+      "Our original cheatsheets, non-negotiables, calendar templates"
+    ],
+    "tier_b_personal_study_only": [
+      "Skinner editions (private local)",
+      "Castle Ars Notoria 2023 (private local PDF)",
+      "Veronese critical Latin (buy/library)"
+    ],
+    "never_publish_on_grimoirer": [
+      "full copyrighted modern translations",
+      "scanned modern book PDFs",
+      "proprietary prayer packs from paid editions without licence"
+    ],
+    "policy": "link, don't redistribute modern copyrighted editions"
+  },
+  "sources_local": {
+    "pd_reader": "ochemapp corpus notoria.blocks.json → grimoirer.com/read/notoria",
+    "witnesses": "ochemapp workers/reader/public/notoria/",
+    "method_docs": [
+      "ochemapp/docs/NOTORIA-METHOD.md",
+      "ochemapp/docs/ARS-NOTORIA-START.md"
+    ],
+    "review_note": "Dan Harms review of Skinner Vol.2 (Version B method): https://danharms.wordpress.com/2021/10/05/review-ars-notoria-the-method-version-b-medieval-angel-magic/ — practitioner-oriented reorganization by art; timing tables; notae from BnF Lat 9336; prayers often from Turner English; appendices include ecclesiastical/planetary hours. Treat as practice guide, not critical edition.",
+    "bnf_ms": "https://gallica.bnf.fr/ark:/12148/btv1b525108283 (BnF Lat 9336)"
+  },
+  "practice_profile": {
+    "shell": "generals (memory · understanding · eloquence · perseverance)",
+    "then": "specials — one liberal art at a time",
+    "order_note": "Philosophy specials first; trivium before quadrivium",
+    "trivium": [
+      "grammar",
+      "logic/dialectic",
+      "rhetoric"
+    ],
+    "quadrivium": [
+      "arithmetic",
+      "music",
+      "geometry",
+      "astronomy"
+    ],
+    "core_loop": "intention → general → nota → special → immediate study → log",
+    "tea_required": false,
+    "tea_note": "Saffron/rosewater is a Version B material formula only. Castle interim: not necessary. Turner never requires it.",
+    "essential_non_negotiables": [
+      "one art per experiment",
+      "study the art immediately after the rite",
+      "contemplate one nota (not a scroll of notes)",
+      "faculty intent (memory/understanding/eloquence/perseverance)",
+      "discipline shell (historical: chastity/mortal-sin avoidance; modern: clear head, no intoxicants for the sitting)",
+      "log one line"
+    ],
+    "optional_layers": [
+      "lunar month structure",
+      "ecclesiastical / planetary hours",
+      "saffron-rosewater or angel-name water formula",
+      "full penitence window (~15 days as able)",
+      "dream-visitation gate (historical Version B)"
+    ],
+    "sanskrit_bridge": {
+      "decision": "Grammar first for Sanskrit/Tantraloka path",
+      "grade0": "Mātṛkā phonemes + loci (Stonedoorway kernel)",
+      "daily_shell": "Notoria grammar session",
+      "machine": "sanskrithelp Pāṇini zones",
+      "later": "Śiva Sūtras → Vijñāna Bhairava → Tantraloka"
+    },
+    "bruno_bridge": {
+      "method_of_places": "nota on locus = Bruno LOCUS+IMAGO",
+      "faculty_hubs": [
+        "memory",
+        "intellect",
+        "eloquence",
+        "understanding"
+      ],
+      "grammar_room": "Pāṇini machine / sandhi gates as notoria grammar special",
+      "sound_hall": "matrika rows as installed imago",
+      "session_template": "INTENTION faculty → PURIFY optional → FIGURE hub → INSPECTION contractio → VOICE prayer/chant → WORK study → RETURN log"
+    }
+  },
+  "calendar": {
+    "engine": "ochemapp graph/calendar.ts + planetary hours",
+    "planet_grimoires": {
+      "mercury": [
+        "heptameron",
+        "key_of_solomon",
+        "notoria"
+      ],
+      "jupiter": [
+        "heptameron",
+        "key_of_solomon",
+        "notoria"
+      ]
+    },
+    "notoria_timing_layers": [
+      {
+        "layer": "minimum",
+        "rule": "fixed weekly slots — consistency over purity"
+      },
+      {
+        "layer": "notoria_faithful",
+        "rule": "sessions on 4th / 8th / 12th moon days if tracking moon"
+      },
+      {
+        "layer": "skinner_version_b",
+        "rule": "greater ritual phases: penitence → 3-day opening (Fri near new moon) → interim → 4 lunar months of operation (trivium then quadrivium; one art at a time) → closing",
+        "tea_in_phase2": true,
+        "tea_required": false
+      },
+      {
+        "layer": "planetary_hour_optional",
+        "rule": "Mercury day/hour for study/writing arts if already using planetary hours"
+      }
+    ],
+    "art_to_planet": {
+      "grammar": "mercury",
+      "logic_dialectic": "mercury",
+      "rhetoric": "mercury",
+      "arithmetic": "jupiter",
+      "music": "venus_or_jupiter",
+      "geometry": "saturn_or_jupiter",
+      "astronomy": "jupiter"
+    },
+    "schedule_template_id": "notoria_grammar_4week_v0"
+  }
+}
