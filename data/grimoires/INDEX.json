@@ -250,6 +250,14 @@
           "price": 5,
           "supplier": "self_fulfilled",
           "instant_delivery": true
+        },
+        {
+          "id": "bruno_wheels_digital",
+          "grimoire": "notoria",
+          "price": 5,
+          "supplier": "self_fulfilled",
+          "instant_delivery": true,
+          "note": "Bruno memory wheels print kit — original templates only"
         }
       ],
       "starter_kits": [
@@ -305,6 +313,18 @@
             "nota_plate_print_pd",
             "log_pages",
             "nonnegotiables_card"
+          ],
+          "multi_supplier": true
+        },
+        {
+          "id": "bruno_wheels_starter",
+          "grimoire": "notoria",
+          "price": 25,
+          "components": [
+            "volvelle_print",
+            "matrika_chart",
+            "protocol_card",
+            "log_booklet"
           ],
           "multi_supplier": true
         }
@@ -384,7 +404,9 @@
         "notoria": [
           "notoria_digital",
           "notoria_cheatsheet_pack",
-          "notoria_practice_starter"
+          "notoria_practice_starter",
+          "bruno_wheels_digital",
+          "bruno_wheels_starter"
         ]
       },
       "product_to_suppliers": {

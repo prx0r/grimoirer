@@ -1,0 +1,76 @@
+{
+  "id": "bruno_memory_wheels",
+  "title": "Bruno Memory Wheels — Print Kit",
+  "grimoire": "notoria",
+  "companion_engine": "prx0r/bruno",
+  "product_line": "memory_os",
+  "difficulty": "beginner_to_intermediate",
+  "price_tiers": {
+    "digital": 5,
+    "starter_print": 25,
+    "deluxe_print": 50
+  },
+  "supplier": {
+    "digital": "self_fulfilled",
+    "print": "prodigi",
+    "print_sku_hint": "A4 / A5 PDF + card set"
+  },
+  "what_it_is": "Original printable Bruno-style memory wheels (volvelles) + agent/action/object sheets for encoding letters, roots, and grammar operators into combinatorial scenes. Built for Sanskrit + Notoria practice — not a dump of modern editions.",
+  "rights": {
+    "policy": "Original layouts + PD methodology. No Castle/Skinner/Singh PDFs bundled.",
+    "source_method": [
+      "Bruno wheels (PD philosophy/memory tradition)",
+      "Llull combinatorics (PD)",
+      "Our practice notes: bruno/sanskrit/BRUNO-WHEELS-IMAGINAL-COMPILER.md",
+      "Ars Notoria faculty shell (Turner PD + original cheatsheets)"
+    ],
+    "never_include": [
+      "Castle 2023 book PDF",
+      "Skinner editions",
+      "Jaideva Singh Parātrīśikā translation",
+      "z-library scans"
+    ]
+  },
+  "digital_contents": [
+    "3-ring volvelle PDF (agents · actions · objects) — cut and pivot",
+    "Blank cell templates (30-cell + letter-vowel 150-style grid)",
+    "Sanskrit phoneme cell sheet (ka–ṅa · ta–ṇa · ta–na · pa–ma · vowels)",
+    "Grammar operator sheet (prefix · suffix · case · sandhi as ACTIONS)",
+    "Agent starter list (empty slots + examples you fill yourself)",
+    "Daily protocol card (Notoria faculty → wheel encode → drill → log)",
+    "Night handoff stub (→ Stonedoorway matrika-night / Routine X)"
+  ],
+  "starter_print_components": [
+    "Printed volvelle kit (pre-cut discs + fastener)",
+    "Mātṛkā row chart (colour scaffold)",
+    "Non-negotiables card (one art · study · log · tea not required)",
+    "Log booklet (faculty · locus · what stuck)"
+  ],
+  "how_it_works": [
+    "1. Outer wheel = agent / letter cell",
+    "2. Middle = action / grammatical operator",
+    "3. Inner = object / target form",
+    "4. Rotate → one scene encodes a word, root, or transformation",
+    "5. Place scene in palace locus (Caelum / body grammar)",
+    "6. Recall by walking the locus, not staring at nothing"
+  ],
+  "sanskrithelp_link": {
+    "app": "https://github.com/prx0r/sanskrithelp",
+    "zones": "phonetics · sandhi · dhatus · verbs",
+    "audio": "public/audio/phonemes/*.ogg"
+  },
+  "bruno_link": {
+    "repo": "https://github.com/prx0r/bruno",
+    "engine": "sanskrit/lab/daily_runtime.py",
+    "wheels_doc": "sanskrit/BRUNO-WHEELS-IMAGINAL-COMPILER.md",
+    "canonical_path": "sanskrit/CANONICAL-SANSKRIT-PATH-V1.md"
+  },
+  "stonedoorway_link": {
+    "preset": "notoria-grammar-study",
+    "kernel_world": "notoria-grammar",
+    "night": "matrika-night + routine-x"
+  },
+  "etsy_listing": "Bruno Memory Wheel Kit | Printable Volvelle | Art of Memory | Sanskrit Study | Grammar Mnemonic | Digital Download",
+  "claims": "Memory study tool · not guaranteed learning magic · not medical",
+  "generated": "2026-10-04"
+}
