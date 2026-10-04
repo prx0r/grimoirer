@@ -1,0 +1,158 @@
+{
+  "id": "vbt_ar_practice_cards",
+  "category": "memory",
+  "subfamily": "dreaming_vbt_ar",
+  "status": "options_saved",
+  "date": "2026-10-04",
+  "thesis": "Practice cards you point a phone at — AR demonstration for VBT techniques, Sanskrit wheels, and grimoire rituals. Physical card + digital overlay + optional Stonedoorway night handoff.",
+  "lineage": {
+    "freaktown": {
+      "repo": "prx0r/freaktown",
+      "use": "Trading-card UI patterns · stage runtime · three.js · share cards · Capacitor mobile shell",
+      "reuse": ["popcard UI", "og-card PNG pipeline", "stage-runtime CameraDirector", "apps/live Capacitor"]
+    },
+    "oddhobbies": {
+      "repo": "prx0r/oddhobbies",
+      "use": "Custom trading card product specs · display · placards · collector chassis",
+      "reuse": ["63.5x88mm card standard", "placard/print specs", "vault concept"]
+    },
+    "bruno_wheels": {
+      "note": "R2: sanskrit-bruno-wheels.zip — varṇa formation · five-ring encoder · dhātu wheel · kāraka wheel · verse compiler · stone-doorway export",
+      "peer_review": "pratyaharas.json ac incomplete · dhatu labels need curation · place×manner not three parallel axes"
+    }
+  },
+  "product_lines": [
+    {
+      "id": "vbt_practice_cards",
+      "name": "Vijñāna Bhairava Practice Cards",
+      "format": ["print_deck_112", "digital_pdf", "ar_overlay"],
+      "price": {"digital": 8, "print_52": 28, "print_full_112": 45, "ar_bundle": 35},
+      "status": "option",
+      "contents": [
+        "One card per dhāraṇā technique (start with curated 52)",
+        "Sound-first front (no English on face until flipped)",
+        "Body/breath cue back",
+        "QR → AR overlay or sanskrithelp VB reading unit",
+        "Optional Stonedoorway night handoff stub"
+      ],
+      "why": "You already have VB corpus + practice-log type 'vb' + 5 voids in sanskrithelp",
+      "sources_local": [
+        "sanskrithelp/data/rag/vijnana-bhairava.txt",
+        "sanskrithelp/data/rag/vijnana-bhairava-mapping.md",
+        "sanskrithelp/public/content/readings/vijnanabhairava"
+      ]
+    },
+    {
+      "id": "sanskrit_wheel_ar_cards",
+      "name": "Sanskrit × Bruno Wheel AR Cards",
+      "format": ["print_card_set", "ar_overlay", "digital_pdf"],
+      "price": {"digital": 7, "print_15": 25, "ar_bundle": 32},
+      "status": "option",
+      "contents": [
+        "Varṇa formation cards (place × manner)",
+        "Dhātu operator cards (√gam √bhū √kṛ √jñā)",
+        "Kāraka event cards",
+        "Verse compiler card (asato mā sad gamaya lab)",
+        "QR → standalone wheel lab HTML + AR prompt"
+      ],
+      "why": "R2 wheels package + peer-reviewed place×manner primitive",
+      "sources_local": [
+        "sanskrit-bruno-wheels.zip (R2)",
+        "bruno/sanskrit/BRUNO-WHEELS-IMAGINAL-COMPILER.md",
+        "bruno/sanskrit/CANONICAL-SANSKRIT-PATH-V1.md"
+      ]
+    },
+    {
+      "id": "grimoire_ritual_ar_cards",
+      "name": "Grimoire Ritual AR Cards",
+      "format": ["print_deck", "ar_overlay", "digital_pdf"],
+      "price": {"digital": 8, "print_deck": 30, "ar_bundle": 38},
+      "status": "option",
+      "contents": [
+        "Notoria session cards (faculty → nota → study → log)",
+        "Ars Brevis figure cards (working titles, contested IDs labelled)",
+        "Planetary-hour ritual cards (link ochema.co timing)",
+        "PD Turner prayer/frame cards (not modern editions)",
+        "QR → grimoirer.com/read/notoria + cheatsheets"
+      ],
+      "why": "Grimoirer practice surface + Notoria pack already built",
+      "sources_local": [
+        "grimoirer/data/practice/notoria/",
+        "grimoirer/data/grimoires/notoria.json",
+        "ochemapp workers/reader/public/notoria/"
+      ]
+    },
+    {
+      "id": "dream_night_ar_cards",
+      "name": "Dream / Night Stack AR Cards",
+      "format": ["print_deck", "ar_overlay"],
+      "price": {"digital": 7, "print_deck": 26, "ar_bundle": 34},
+      "status": "option",
+      "contents": [
+        "5-void breath cards",
+        "Focus 10 cue cards",
+        "3D blackness prompts",
+        "Dream incubation question cards",
+        "QR → Stonedoorway matrika-night / Routine X"
+      ],
+      "why": "Night products family + sanskrithelp tantra practice already exists"
+    }
+  ],
+  "ar_stack_options": [
+    {
+      "id": "webxr_model_viewer",
+      "complexity": "low",
+      "notes": "Google model-viewer / WebXR on card page; QR on card → phone browser"
+    },
+    {
+      "id": "mindar_or_wikitude",
+      "complexity": "medium",
+      "notes": "Image target on card face → AR overlay of wheel / verse / technique"
+    },
+    {
+      "id": "freaktown_stage_runtime",
+      "complexity": "medium",
+      "notes": "Reuse three.js stage + Capacitor shell from prx0r/freaktown"
+    },
+    {
+      "id": "8th_wall_or_similar",
+      "complexity": "high",
+      "notes": "Commercial AR cloud; only if sales justify"
+    }
+  ],
+  "card_standard": {
+    "size": "63.5 x 88 mm (standard TCG — matches oddhobbies specs)",
+    "print": "350gsm, matte/gloss",
+    "face": "visual technique / wheel cell / nota",
+    "back": "sound-first cue + QR + one-line log prompt",
+    "qr_targets": [
+      "sanskrit wheel lab HTML",
+      "grimoirer notoria page",
+      "stonedoorway preset",
+      "ochema.co ritual timing"
+    ]
+  },
+  "build_order": [
+    "1. Curate VBT deck 52 from mapping + readings",
+    "2. Print sample cards (oddhobbies card specs)",
+    "3. QR → simple web overlay (model-viewer or static AR card page)",
+    "4. Wire freaktown-style share/card page if needed",
+    "5. Add Sanskrit wheel cards from R2 package",
+    "6. Add grimoire Notoria ritual cards",
+    "7. Product packs on Grimoirer + Etsy"
+  ],
+  "rights": {
+    "vbt": "Technique names + our cues + PD/general practice; link VB readings; no full modern commentary dumps",
+    "wheels": "Original templates + PD Bruno/Lull method; peer-reviewed corrections in package",
+    "grimoires": "PD Turner frame + original cheatsheets; no Castle/Skinner PDFs",
+    "ar": "Our overlays only; no proprietary Monroe audio/scripts"
+  },
+  "ecosystem_flow": [
+    "Print card on desk",
+    "Phone camera / QR",
+    "AR or web overlay: technique + wheel + sound",
+    "Practice immediately",
+    "Log in sanskrithelp or ochema diary",
+    "Night: Stonedoorway handoff if desired"
+  ]
+}

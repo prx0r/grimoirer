@@ -576,7 +576,8 @@
           "night_stack_ticket_book",
           "sanskrit_sound_body_map",
           "grammar_operator_wheel"
-        ]
+        ],
+        "ar_cards": "data/products/vbt-ar-practice-cards.json"
       }
     }
   },

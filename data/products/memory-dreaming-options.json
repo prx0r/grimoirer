@@ -15,229 +15,562 @@
     {
       "id": "bruno_memory_wheels",
       "name": "Bruno Memory Wheel Kit",
-      "format": ["digital", "print", "3d_print_discs"],
-      "price": {"digital": 5, "starter_print": 25, "deluxe_print": 50},
+      "format": [
+        "digital",
+        "print",
+        "3d_print_discs"
+      ],
+      "price": {
+        "digital": 5,
+        "starter_print": 25,
+        "deluxe_print": 50
+      },
       "status": "pack_drafted",
       "why": "Already specced; public bruno repo; combinatorial encoding",
-      "supplier": ["self_fulfilled", "prodigi", "makr3d"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi",
+        "makr3d"
+      ]
     },
     {
       "id": "notoria_faculty_deck",
       "name": "Notoria Faculty Deck",
-      "format": ["digital_cards", "print"],
-      "price": {"digital": 5, "print": 18},
+      "format": [
+        "digital_cards",
+        "print"
+      ],
+      "price": {
+        "digital": 5,
+        "print": 18
+      },
       "status": "option",
-      "contents": ["memory", "understanding", "eloquence", "perseverance", "nota frames", "session shell"],
+      "contents": [
+        "memory",
+        "understanding",
+        "eloquence",
+        "perseverance",
+        "nota frames",
+        "session shell"
+      ],
       "why": "Faculty engine from Notoria; pairs with ochema timing",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "method_of_places_palace_cards",
       "name": "Method of Places — Palace Cards",
-      "format": ["print", "digital_pdf"],
-      "price": {"digital": 6, "print": 22},
+      "format": [
+        "print",
+        "digital_pdf"
+      ],
+      "price": {
+        "digital": 6,
+        "print": 22
+      },
       "status": "option",
-      "contents": ["loci cards", "blank imago slots", "walk order arrows", "stability rules"],
+      "contents": [
+        "loci cards",
+        "blank imago slots",
+        "walk order arrows",
+        "stability rules"
+      ],
       "why": "Classical loci; Bruno LOCUS/IMAGO; low competition",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "thirty_seals_practice_deck",
       "name": "Thirty Seals Practice Deck",
-      "format": ["digital", "print"],
-      "price": {"digital": 7, "print": 24},
+      "format": [
+        "digital",
+        "print"
+      ],
+      "price": {
+        "digital": 7,
+        "print": 24
+      },
       "status": "option",
-      "contents": ["sigillum prompt cards", "combinatorial exercises", "inventory from bruno triginta-sigilli"],
+      "contents": [
+        "sigillum prompt cards",
+        "combinatorial exercises",
+        "inventory from bruno triginta-sigilli"
+      ],
       "why": "Bruno seals = mental operations; unique to stack",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "sanskrit_sound_body_map",
       "name": "Sanskrit Sound-Body Map",
-      "format": ["print_poster", "digital_pdf"],
-      "price": {"digital": 4, "print_poster": 18, "print_a3": 28},
+      "format": [
+        "print_poster",
+        "digital_pdf"
+      ],
+      "price": {
+        "digital": 4,
+        "print_poster": 18,
+        "print_a3": 28
+      },
       "status": "option",
-      "contents": ["matrika rows by articulation", "colour scaffold PEDAGOGICAL", "place/manner labels", "audio QR to sanskrithelp"],
+      "contents": [
+        "matrika rows by articulation",
+        "colour scaffold PEDAGOGICAL",
+        "place/manner labels",
+        "audio QR to sanskrithelp"
+      ],
       "why": "Ties sanskrithelp phonemes + chant guide; visual merch",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "grammar_operator_wheel",
       "name": "Grammar Operator Wheel",
-      "format": ["3d_print", "digital_svg"],
-      "price": {"digital": 5, "print_3d": 22, "kit": 32},
+      "format": [
+        "3d_print",
+        "digital_svg"
+      ],
+      "price": {
+        "digital": 5,
+        "print_3d": 22,
+        "kit": 32
+      },
       "status": "option",
-      "contents": ["prefix ring", "suffix ring", "case ring", "sandhi ring", "rotator hardware"],
+      "contents": [
+        "prefix ring",
+        "suffix ring",
+        "case ring",
+        "sandhi ring",
+        "rotator hardware"
+      ],
       "why": "Bruno/Llull combinatorics as physical grammar machine; few competitors",
-      "supplier": ["makr3d", "prodigi", "self_fulfilled"]
+      "supplier": [
+        "makr3d",
+        "prodigi",
+        "self_fulfilled"
+      ]
     },
     {
       "id": "caelum_pocket_palaces",
       "name": "Caelum Pocket Palaces",
-      "format": ["3d_print"],
-      "price": {"single": 12, "set_of_4": 40},
+      "format": [
+        "3d_print"
+      ],
+      "price": {
+        "single": 12,
+        "set_of_4": 40
+      },
       "status": "option",
-      "contents": ["octant sphere/discs", "imago tab slots", "locus labels"],
+      "contents": [
+        "octant sphere/discs",
+        "imago tab slots",
+        "locus labels"
+      ],
       "why": "Physical Bruno Caelum from bruno_engine / bruno_primitives",
-      "supplier": ["makr3d", "prodigi"]
+      "supplier": [
+        "makr3d",
+        "prodigi"
+      ]
     },
     {
       "id": "pratyahara_flash_system",
       "name": "Pratyāhāra Flash System",
-      "format": ["digital_srs", "print_cards"],
-      "price": {"digital_srs": 5, "print": 20},
+      "format": [
+        "digital_srs",
+        "print_cards"
+      ],
+      "price": {
+        "digital_srs": 5,
+        "print": 20
+      },
       "status": "option",
-      "contents": ["ac/ic/uc/hal etc as compressed handles", "example expansions", "quiz prompts"],
+      "contents": [
+        "ac/ic/uc/hal etc as compressed handles",
+        "example expansions",
+        "quiz prompts"
+      ],
       "why": "Pāṇinian addressing; pairs with sanskrithelp zone 1",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "arguelles_scriptorium_notebook",
       "name": "Arguelles Scriptorium Notebook",
-      "format": ["print"],
-      "price": {"print": 16, "bundle": 24},
+      "format": [
+        "print"
+      ],
+      "price": {
+        "print": 16,
+        "bundle": 24
+      },
       "status": "option",
-      "contents": ["read-write-reread lines", "Bruno simulate prompts", "daily log grid"],
+      "contents": [
+        "read-write-reread lines",
+        "Bruno simulate prompts",
+        "daily log grid"
+      ],
       "why": "Arguelles method paper product; daily habit",
-      "supplier": ["prodigi", "ingramspark"]
+      "supplier": [
+        "prodigi",
+        "ingramspark"
+      ]
     },
     {
       "id": "notoria_desk_card",
       "name": "Daily Notoria Desk Card",
-      "format": ["print_a5", "digital_pdf"],
-      "price": {"digital": 2, "print_pack_10": 12},
+      "format": [
+        "print_a5",
+        "digital_pdf"
+      ],
+      "price": {
+        "digital": 2,
+        "print_pack_10": 12
+      },
       "status": "option",
-      "contents": ["faculty pick", "nota", "study", "log", "non-negotiables", "tea not required"],
+      "contents": [
+        "faculty pick",
+        "nota",
+        "study",
+        "log",
+        "non-negotiables",
+        "tea not required"
+      ],
       "why": "Cheap impulse add-on; reinforces ritual shell",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
+    },
+    {
+      "id": "sanskrit_wheel_ar_cards",
+      "name": "Sanskrit × Bruno Wheel AR Cards",
+      "format": [
+        "print",
+        "ar_overlay"
+      ],
+      "price": {
+        "digital": 7,
+        "print_15": 25,
+        "ar_bundle": 32
+      },
+      "status": "option",
+      "why": "R2 wheels package + place×manner primitive"
     }
   ],
   "dreaming_products": [
     {
       "id": "five_void_breath_cards",
       "name": "5-Void Breath Cards",
-      "format": ["print", "digital_pdf"],
-      "price": {"digital": 4, "print": 16},
+      "format": [
+        "print",
+        "digital_pdf"
+      ],
+      "price": {
+        "digital": 4,
+        "print": 16
+      },
       "status": "option",
-      "contents": ["dream void", "lucid void", "dreamless void", "breath cues", "return protocol"],
+      "contents": [
+        "dream void",
+        "lucid void",
+        "dreamless void",
+        "breath cues",
+        "return protocol"
+      ],
       "why": "Already in sanskrithelp /tantra/practice; night stack bridge",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "focus10_cue_deck",
       "name": "Focus 10 / Body-Asleep Cue Deck",
-      "format": ["digital", "print"],
-      "price": {"digital": 5, "print": 18},
+      "format": [
+        "digital",
+        "print"
+      ],
+      "price": {
+        "digital": 5,
+        "print": 18
+      },
       "status": "option",
-      "contents": ["progressive relaxation cues", "mind-awake pointer", "reorient cards"],
+      "contents": [
+        "progressive relaxation cues",
+        "mind-awake pointer",
+        "reorient cards"
+      ],
       "why": "Pairs with Stonedoorway astral-body / Focus 10; adaptations not proprietary scripts",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "three_d_blackness_depth_chart",
       "name": "3D Blackness Depth Chart",
-      "format": ["digital_pdf", "optional_3d_print"],
-      "price": {"digital": 4, "print_3d": 18},
+      "format": [
+        "digital_pdf",
+        "optional_3d_print"
+      ],
+      "price": {
+        "digital": 4,
+        "print_3d": 18
+      },
       "status": "option",
-      "contents": ["spatial dark prompts", "near/far/center", "panic reorient card"],
+      "contents": [
+        "spatial dark prompts",
+        "near/far/center",
+        "panic reorient card"
+      ],
       "why": "Astral-body protocol companion; unique visual",
-      "supplier": ["self_fulfilled", "makr3d"]
+      "supplier": [
+        "self_fulfilled",
+        "makr3d"
+      ]
     },
     {
       "id": "dream_incubation_question_cards",
       "name": "Dream Incubation Question Cards",
-      "format": ["print", "digital"],
-      "price": {"digital": 5, "print": 18},
+      "format": [
+        "print",
+        "digital"
+      ],
+      "price": {
+        "digital": 5,
+        "print": 18
+      },
       "status": "option",
-      "contents": ["one question per night", "Brevis-style unresolved structure prompts", "morning log line"],
+      "contents": [
+        "one question per night",
+        "Brevis-style unresolved structure prompts",
+        "morning log line"
+      ],
       "why": "Etsy demand for dream journals + kits; ties to night stack",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "night_stack_ticket_book",
       "name": "Night Stack Ticket Book",
-      "format": ["print_booklet"],
-      "price": {"print": 14, "bundle": 22},
+      "format": [
+        "print_booklet"
+      ],
+      "price": {
+        "print": 14,
+        "bundle": 22
+      },
       "status": "option",
-      "contents": ["breath", "chant", "Focus 10", "void", "log", "stop tickets"],
+      "contents": [
+        "breath",
+        "chant",
+        "Focus 10",
+        "void",
+        "log",
+        "stop tickets"
+      ],
       "why": "Paper version of Routine X; consumable reorder potential",
-      "supplier": ["prodigi", "ingramspark"]
+      "supplier": [
+        "prodigi",
+        "ingramspark"
+      ]
     },
     {
       "id": "matrika_night_chant_sheet",
       "name": "Mātṛkā Night Chant Sheet",
-      "format": ["print", "digital_pdf"],
-      "price": {"digital": 3, "print_pack": 12},
+      "format": [
+        "print",
+        "digital_pdf"
+      ],
+      "price": {
+        "digital": 3,
+        "print_pack": 12
+      },
       "status": "option",
-      "contents": ["rows", "green-core longer pause", "silence timer marks", "link to phoneme audio"],
+      "contents": [
+        "rows",
+        "green-core longer pause",
+        "silence timer marks",
+        "link to phoneme audio"
+      ],
       "why": "Chant guide operationalized; ties sanskrithelp audio",
-      "supplier": ["self_fulfilled", "prodigi"]
+      "supplier": [
+        "self_fulfilled",
+        "prodigi"
+      ]
     },
     {
       "id": "lucid_reality_check_cards",
       "name": "Lucid Reality-Check Card Set",
-      "format": ["print_30_cards", "digital"],
-      "price": {"digital": 8, "print": 22},
+      "format": [
+        "print_30_cards",
+        "digital"
+      ],
+      "price": {
+        "digital": 8,
+        "print": 22
+      },
       "status": "option",
       "flagship_gap": true,
-      "contents": ["30 reality checks", "journal prompts", "dream sign tracker"],
+      "contents": [
+        "30 reality checks",
+        "journal prompts",
+        "dream sign tracker"
+      ],
       "why": "Your Etsy research: biggest whitespace in dream category",
-      "supplier": ["prodigi", "self_fulfilled"]
+      "supplier": [
+        "prodigi",
+        "self_fulfilled"
+      ]
     },
     {
       "id": "astral_body_loci_map",
       "name": "Astral Body Loci Map",
-      "format": ["digital_pdf", "optional_3d_print"],
-      "price": {"digital": 5, "print_3d": 20},
+      "format": [
+        "digital_pdf",
+        "optional_3d_print"
+      ],
+      "price": {
+        "digital": 5,
+        "print_3d": 20
+      },
       "status": "option",
-      "contents": ["body-as-grammar stations", "tension-scan map", "Focus 10 stations"],
+      "contents": [
+        "body-as-grammar stations",
+        "tension-scan map",
+        "Focus 10 stations"
+      ],
       "why": "Bridges body-grammar design + night astral-body world",
-      "supplier": ["self_fulfilled", "makr3d"]
+      "supplier": [
+        "self_fulfilled",
+        "makr3d"
+      ]
+    },
+    {
+      "id": "vbt_practice_cards",
+      "name": "Vijñāna Bhairava Practice Cards",
+      "format": [
+        "print_deck",
+        "digital_pdf",
+        "ar_overlay"
+      ],
+      "price": {
+        "digital": 8,
+        "print_52": 28,
+        "ar_bundle": 35
+      },
+      "status": "option",
+      "why": "Point-phone practice; VB corpus + tantra practice already in sanskrithelp"
     }
   ],
   "bundles": [
     {
       "id": "memory_starter_kit",
       "name": "Memory Starter Kit",
-      "price": {"digital": 12, "print": 35},
-      "includes": ["bruno_memory_wheels", "notoria_faculty_deck", "notoria_desk_card", "log_pages"],
+      "price": {
+        "digital": 12,
+        "print": 35
+      },
+      "includes": [
+        "bruno_memory_wheels",
+        "notoria_faculty_deck",
+        "notoria_desk_card",
+        "log_pages"
+      ],
       "status": "option"
     },
     {
       "id": "night_starter_kit",
       "name": "Night Starter Kit",
-      "price": {"digital": 12, "print": 35},
-      "includes": ["five_void_breath_cards", "matrika_night_chant_sheet", "focus10_cue_deck", "dream_incubation_question_cards"],
+      "price": {
+        "digital": 12,
+        "print": 35
+      },
+      "includes": [
+        "five_void_breath_cards",
+        "matrika_night_chant_sheet",
+        "focus10_cue_deck",
+        "dream_incubation_question_cards"
+      ],
       "status": "option"
     },
     {
       "id": "sanskrit_day_to_night",
       "name": "Sanskrit Day → Night",
-      "price": {"digital": 15, "print": 49},
-      "includes": ["sanskrit_sound_body_map", "grammar_operator_wheel", "night_stack_ticket_book", "pratyahara_flash_system"],
+      "price": {
+        "digital": 15,
+        "print": 49
+      },
+      "includes": [
+        "sanskrit_sound_body_map",
+        "grammar_operator_wheel",
+        "night_stack_ticket_book",
+        "pratyahara_flash_system"
+      ],
       "status": "option"
     },
     {
       "id": "notoria_desk_set",
       "name": "Notoria Desk Set",
-      "price": {"digital": 10, "print": 28},
-      "includes": ["notoria_faculty_deck", "notoria_desk_card", "method_of_places_palace_cards"],
+      "price": {
+        "digital": 10,
+        "print": 28
+      },
+      "includes": [
+        "notoria_faculty_deck",
+        "notoria_desk_card",
+        "method_of_places_palace_cards"
+      ],
       "status": "option"
     },
     {
       "id": "deluxe_memory_palace",
       "name": "Deluxe Memory Palace",
-      "price": {"print": 95},
-      "includes": ["caelum_pocket_palaces", "bruno_memory_wheels", "thirty_seals_practice_deck", "arguelles_scriptorium_notebook"],
+      "price": {
+        "print": 95
+      },
+      "includes": [
+        "caelum_pocket_palaces",
+        "bruno_memory_wheels",
+        "thirty_seals_practice_deck",
+        "arguelles_scriptorium_notebook"
+      ],
       "status": "option"
     }
   ],
   "three_d_print_shortlist": [
-    {"id": "volvelle_hardware_kit", "note": "3 discs + rivet; print discs, source fasteners"},
-    {"id": "grammar_operator_wheel", "note": "sandhi/prefix/suffix/case rotator"},
-    {"id": "caelum_pocket_palaces", "note": "8 loci; imago tabs"},
-    {"id": "phoneme_tiles_dice", "note": "Sanskrit letter faces for random agents"},
-    {"id": "night_cue_cube", "note": "breath · chant · Focus · void · log · stop"}
+    {
+      "id": "volvelle_hardware_kit",
+      "note": "3 discs + rivet; print discs, source fasteners"
+    },
+    {
+      "id": "grammar_operator_wheel",
+      "note": "sandhi/prefix/suffix/case rotator"
+    },
+    {
+      "id": "caelum_pocket_palaces",
+      "note": "8 loci; imago tabs"
+    },
+    {
+      "id": "phoneme_tiles_dice",
+      "note": "Sanskrit letter faces for random agents"
+    },
+    {
+      "id": "night_cue_cube",
+      "note": "breath · chant · Focus · void · log · stop"
+    }
   ],
   "digital_only": [
     "printable PDF packs",
@@ -247,11 +580,31 @@
     "Notoria calendar templates (4-week Sanskrit grammar)"
   ],
   "sell_first": [
-    {"rank": 1, "id": "bruno_memory_wheels", "reason": "Already specced + public bruno repo"},
-    {"rank": 2, "id": "night_stack_ticket_book", "reason": "Matches Routine X; content exists"},
-    {"rank": 3, "id": "sanskrit_sound_body_map", "reason": "sanskrithelp audio + matrika"},
-    {"rank": 4, "id": "grammar_operator_wheel", "reason": "3D differentiator"},
-    {"rank": 5, "id": "lucid_reality_check_cards", "reason": "Flagship gap in Etsy research"}
+    {
+      "rank": 1,
+      "id": "bruno_memory_wheels",
+      "reason": "Already specced + public bruno repo"
+    },
+    {
+      "rank": 2,
+      "id": "night_stack_ticket_book",
+      "reason": "Matches Routine X; content exists"
+    },
+    {
+      "rank": 3,
+      "id": "sanskrit_sound_body_map",
+      "reason": "sanskrithelp audio + matrika"
+    },
+    {
+      "rank": 4,
+      "id": "grammar_operator_wheel",
+      "reason": "3D differentiator"
+    },
+    {
+      "rank": 5,
+      "id": "lucid_reality_check_cards",
+      "reason": "Flagship gap in Etsy research"
+    }
   ],
   "rights_policy": {
     "sell": [
@@ -268,5 +621,17 @@
       "frequency-heals medical claims"
     ]
   },
-  "category_thesis": "Memory is becoming a first-class Grimoirer family — art of memory, faculty practice, dreaming/night — even if not strictly 'grimoires'. It links engines (bruno/sanskrithelp) to sellable objects (wheels, cards, maps, 3D loci) and night products (void cards, chant sheets, lucid kits)."
+  "category_thesis": "Memory is becoming a first-class Grimoirer family — art of memory, faculty practice, dreaming/night — even if not strictly 'grimoires'. It links engines (bruno/sanskrithelp) to sellable objects (wheels, cards, maps, 3D loci) and night products (void cards, chant sheets, lucid kits).",
+  "ar_practice_cards": {
+    "id": "vbt_ar_practice_cards",
+    "file": "data/products/vbt-ar-practice-cards.json",
+    "note": "VBT + Sanskrit wheels + grimoire + night cards — point phone at card for AR/web overlay",
+    "lineage": [
+      "freaktown cards/stage",
+      "oddhobbies print specs",
+      "bruno wheels R2",
+      "sanskrithelp VB",
+      "grimoirer notoria"
+    ]
+  }
 }
